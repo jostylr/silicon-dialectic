@@ -1,0 +1,19 @@
+{
+  "name": "The Silicon Dialectic",
+  "short_name": "Dialectic",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#5f259f",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
