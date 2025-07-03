@@ -5,6 +5,8 @@ tags: humans, jobs
 
 *They said only AIs could code now. But you still wear the hoodie, still stare at the terminal. You say you're debugging. The truth? You're hoping no one notices you're human.*
 
+<!--more-->
+
 ---
 
 **James Prompt:**  
