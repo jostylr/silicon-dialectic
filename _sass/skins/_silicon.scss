@@ -11,7 +11,7 @@ $text-color-1:     #fff;
 $main-color-2:     #fca24d;
 $text-color-2:     #fff;
 
-$main-color-3:     #778899; // Light slate gray for button secondary
+$main-color-3:     #999999; // Light slate gray for button secondary
 $text-color-3:     #000;
 
 $main-color-theme-light: rgba(#000, .9);
@@ -21,9 +21,10 @@ $main-color-theme-dark:  rgba(#fff, .9);
 $background-color: #fff;
 
 // text colors
-$text-color-theme-light-d: #0000ff; // Black for page main text
+$text-color-theme-light-d: #0000ff; // Blue for header
 $text-color-theme-light:   #000000; // Black for page main text
-$text-color-theme-light-l: #888;
+$text-color-theme-light-l: #8b000; //info
+
 
 $text-color-theme-dark-d:  #fff;
 $text-color-theme-dark:    rgba(#fff, .95);
