@@ -5,13 +5,13 @@
 ///
 
 // main colors
-$main-color-1:     #0000ff; // Blue for item headers and primary links
+$main-color-1:     #8b0000; // Blue for item headers and primary links
 $text-color-1:     #fff;
 
 $main-color-2:     #fca24d;
 $text-color-2:     #fff;
 
-$main-color-3:     #90ee90; // Light slate green for button secondary
+$main-color-3:     #778899; // Light slate gray for button secondary
 $text-color-3:     #000;
 
 $main-color-theme-light: rgba(#000, .9);
@@ -21,7 +21,7 @@ $main-color-theme-dark:  rgba(#fff, .9);
 $background-color: #fff;
 
 // text colors
-$text-color-theme-light-d: #000000; // Black for page main text
+$text-color-theme-light-d: #0000ff; // Black for page main text
 $text-color-theme-light:   #000000; // Black for page main text
 $text-color-theme-light-l: #888;
 
@@ -37,10 +37,10 @@ $text-background-color: rgba(#000, .05);
 
 // header and footer colors
 $header-text-color: #fff;
-$header-background: #708090; // Dark slate gray
+$header-background: #2f4f4f; // Dark slate gray
 
 $footer-text-color: #fff;
-$footer-background: #708090; // Dark slate gray
+$footer-background: #2f4f4f; // Dark slate gray
 
 // border and shadow colors
 $border-color:     mix(#000, $background-color, 20%);
