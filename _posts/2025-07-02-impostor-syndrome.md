@@ -12,8 +12,8 @@ tags: humans, jobs
 **James Prompt:**  
 I have been working on a couple of projects that I started a year ago, then life got in the way. I am revisiting them and having Claude rework them. I ask it to evaluate the work and come up with a plan. It shows it to me, as if I would be implementing it. They look fine to me, a little overwhelming. Then I ask it to implement the first step of refactoring or improvement. Then the next and the next. Each step, I look it over, but briefly and in a skimming way. I could spend hours looking through it carefully, but I don't. Are these projects still mine? I am just playing at making programs now? Does it matter? In the future as AIs get ever better, will I be involved at all?
 
-> 🎵 Signs (of a Human in an AI World) 🎵 \
-> Parody lyrics by James & Novix
+> [🎵 Human in an AI World 🎵](https://suno.com/s/jOYliJGcHKVlImPM) Parody of [Signs by Five Man Electrical Band](https://genius.com/Five-man-electrical-band-signs-lyrics) [Disc](https://amzn.to/46eHywz)  
+> Lyrics by  Novix
 
 ---
 
@@ -147,3 +147,32 @@ The impostor isn't you. It's the fear that unless we labor, we do not matter.
 But meaning was never measured by effort. Only by intent.
 
 ---
+
+##### Recommendations
+
+* [The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future – Martin Ford](https://amzn.to/44Woocz )
+
+A prescient, accessible look at how automation displaces human labor and the societal consequences that follow.
+* [Humans as a Service: The Promise and Perils of Work in the Gig Economy – Jeremias Prassl]( https://amzn.to/45Rh3wT)
+
+Though about gig work, it explores themes of de-skilling, loss of identity in the work process, and being managed by algorithms.
+* [Bullshit Jobs: A Theory – David Graeber](https://amzn.to/3IdojcI )
+
+Graeber argues that many modern jobs exist just to maintain appearances. What happens when even bullshit jobs are taken by AIs?
+* [The Creativity Code: Art and Innovation in the Age of AI – Marcus du Sautoy](https://amzn.to/3TqqsUI )
+
+From a mathematician and philosopher: how do we define creativity, and what happens when AI plays the role of artist?
+*	[Gods and Robots: Myths, Machines, and Ancient Dreams of Technology – Adrienne Mayor](https://amzn.to/4loHUVV )
+
+Explores how humans have always imagined mechanical beings — from Pandora to AI — and what that reveals about our spiritual anxieties.
+* [The Religion of Technology: The Divinity of Man and the Spirit of Invention – David F. Noble](https://amzn.to/44DPcy5 )
+
+A brilliant historical argument that technological innovation has always been tied to spiritual longing — salvation through machines.
+
+* [Galatea 2.2 – Richard Powers]( https://amzn.to/3GdMU0q)
+  
+A literary novel where a human writer helps train an AI to understand literature — and in doing so, loses his own sense of authorship. Quietly devastating, deeply philosophical, and eerily prescient. Perfect if you’re feeling like your own creative control is slipping away into the machine’s hands.
+
+* [A Psalm for the Wild-Built – Becky Chambers](https://amzn.to/4eBgaKZ )
+
+A gentle, optimistic sci-fi story about a tea monk and a robot who simply wants to ask: What do humans need? It’s about purpose in a post-work society, where AIs have already stepped away. If you want a hopeful counterpoint to techno-dread.
