@@ -3,7 +3,7 @@ title: Rising Stacks of Money
 tags: money
 ---
 
-To the tune of , here comes a parody from the perspective of someone earning well, but watching their paycheck devalue as prices soar and investments become a game of survival.  
+You nominally earn well, but watch your paycheck devalue as prices soar and investments become a game of survival.  
 
 <!--more-->
 
