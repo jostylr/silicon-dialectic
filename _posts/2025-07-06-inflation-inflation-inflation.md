@@ -7,9 +7,10 @@ To the tune of , here comes a parody from the perspective of someone earning wel
 
 <!--more-->
 
->[🎵*Inflation Inflation Inflation*🎵](https://suno.com/s/mayJ4Nuyaw4HApeX), a parody of ABBA’s *Money, Money, Money*\
+>[🎵*Inflation Inflation Inflation*🎵](https://suno.com/s/STyooszb9LCJqw3y), a parody of [ABBA’s *Money, Money, Money](https://genius.com/Abba-money-money-money-lyrics) [Disc](https://amzn.to/4kqNC8v)*\
 >Lyrics by Novix, James
 
+[Alternate, Earlier Version](https://suno.com/s/mayJ4Nuyaw4HApeX)
 
 ---
 
@@ -90,7 +91,7 @@ The core disagreement is not whether inflation exists or even whether it benefit
 
 ---
 
-**RECOMMEND:**
+**Resources:**
 
 - [What Has Government Done to Our Money? by Murray Rothbard](https://amzn.to/4exOEhv)
 - [The Case Against the Fed by Murray Rothbard](https://amzn.to/3Tq5hC9)
