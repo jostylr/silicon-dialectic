@@ -13,11 +13,6 @@ Lyrics by Novix
 
 ---
 
-**James Prompt:**  
-Modifying the state of nature by human labor leads to ownership. Respecting that is how we have a stable society that people can build on.
-
----
-
 **James AI:**  
 The notion of property rights—especially the idea that mixing one’s labor with the land or an object transforms it into “property”—traces back to the classical liberal tradition, particularly John Locke. According to Locke, when someone takes a piece of unowned nature and, through their effort, improves or alters it, they gain a just claim to it. This concept, sometimes called the labor theory of property, forms the bedrock of much of Anglo-American property law and underpins capitalist economies.
 
@@ -113,3 +108,15 @@ This land is ours, to have and hold.
 
 - **[Governing the Commons by Elinor Ostrom](https://amzn.to/4eVAHtX)**  
   Shows how communities can sustainably manage resources without exclusive private property or top-down state control.
+--- 
+
+### James Prompt
+
+
+* **TITLE:** My Property  
+* **LEAD:** Owning property seems straightforward, but by what right is something owned by someone or not?  
+* **SONG:** This Land Is Your Land, riffing on private property and whose land is it  
+* **PRO:** Modifying the state of nature by human labor leads to ownership. Respecting that is how we have a stable society that people can build on.  
+* **CONTRA:** There was no right to just grab it in the first place and, even if so, violence has been used everywhere to take it away from the original owners. It is just the group decision of society who owns what.  
+* **RECOMMEND:** Books with different attitudes towards property. Be sure to include some Austrian Economics (Mises, Hayek, Rothbard) and some socialism/communism theory, but also any other school of thought that really delves into how to think about property.
+
