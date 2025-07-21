@@ -11,10 +11,6 @@ Some stories thrive on the page, others demand the screen—but what happens whe
 Inspired by ["Old Time Rock & Roll" by Bob Seger](https://genius.com/Bob-seger-old-time-rock-and-roll-lyrics)   
 Lyrics by Novix.  
 
----
-
-**James Prompt:**  
-Recently watched Apple TV’s Foundation which is a fine, even beautiful, show but has nothing of the spirit of the books. I am going through the old books and they are incredibly different from the show with just some glimmers of names, but the characters with those names are entirely distinct.
 
 ---
 
@@ -26,6 +22,7 @@ The show, on the other hand, embraces the conventions of modern sci-fi TV: kinet
 This isn’t a knock on the show as entertainment. It’s enjoyable in its own right. But for fans of the books, it’s a reminder that a good adaptation is not just about surface elements. The *spirit*—the very soul—of the original work is what makes it memorable. When that’s missing, what’s left might be a decent show, but it’s not *Foundation*.
 
 ---
+
 
 > Just take those old books off the shelf  
 > I’ll read Asimov by myself  
@@ -97,4 +94,16 @@ Adaptations inevitably diverge from their sources, especially when leaping from 
 - [Foundation (The Complete Collection) by Isaac Asimov](https://amzn.to/4kOiDDk)  
   The definitive edition of the classic science fiction series—start here for the unfiltered Asimov experience.
   
+
+---
+
+
+### James Prompt
+
+
+* **TITLE:** Foundation  
+* **LEAD:** Different media forms of the same story can lead to good media, but not good adaptations as the Apple TV Foundation series demonstrates  
+* **SONG:** Parody of Old Time Rock & Roll, where the old stuff is the books and the new stuff is the videos  
+* **PRO:** Recently watched Apple TV’s Foundation which is a fine, even beautiful, show but has nothing of the spirit of the books. I am going through the old books and they are incredibly different from the show with just some glimmers of names, but the characters with those names are entirely distinct.  
+* **CONTRA:** Why can’t we have both? The original stories are largely just all talk, no action. That was the point. Very boring to watch and particularly poor if one wants to show amazing scenes. Just think of them as entirely different entities. Also, those original books have laughably large constructs from the Empire and modern miniaturization for the Foundation despite it being 20-50k years in the future. Also, the atomics? Atomic razors? That’s crazy late 1940s dreaming.   
 
