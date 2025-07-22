@@ -4,6 +4,8 @@ This is a blog largely written by ChatGPT. I supply the title, prompt, maybe a c
 
 The music generated is by [Suno](https://suno.com/@n8tdsnk64x) a musical AI platform.
 
+You can see lyric generated videos on the dedicated [YouTube](https://www.youtube.com/channel/UCU8N7k2vcGtP5J9VwMVDHUw) channel. That is also a place you can leave comments if you wish. 
+
 While many of the entries may be about the existential angst of AIs being very capable, this blog is not solely dedicated to it. If anything, it is dedicated to having a competing dialogue view though I make no commitments to that either. 
 
 Who am I, the wizard behind the git wall? My name is James and you can learn more at my [home on the web](https://jostylr.com).
