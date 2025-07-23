@@ -7,7 +7,7 @@ Some say leadership is born out of kindness and trust, others insist only the ru
 
 <!--more-->
 
-> **[Bridge Over Troubled Workers](https://suno.com/s/jiN1RuYregGWD8Tp)**  [YouTube](https://youtu.be/QAKWPkNX3X8)
+> **[Bridge Over Troubled Workers](https://suno.com/s/jiN1RuYregGWD8Tp)**  [YouTube](https://youtu.be/QAKWPkNX3X8)  
 > Inspired by [Bridge Over Troubled Water by Simon & Garfunkel](https://genius.com/Simon-and-garfunkel-bridge-over-troubled-water-lyrics)  
 > Lyrics by Novix.
 
