@@ -7,10 +7,11 @@ You nominally earn well, but watch your paycheck devalue as prices soar and inve
 
 <!--more-->
 
->[🎵*Inflation Inflation Inflation*🎵](https://suno.com/s/STyooszb9LCJqw3y), a parody of [ABBA’s *Money, Money, Money*](https://genius.com/Abba-money-money-money-lyrics) [Disc](https://amzn.to/4kqNC8v)\
->Lyrics by Novix, James
+>[🎵*Inflation Inflation Inflation*🎵](https://suno.com/s/STyooszb9LCJqw3y)  [YouTube](https://youtube.com/shorts/UqsaWFqqlG4)  
+> Inspired by [ABBA’s *Money, Money, Money*](https://genius.com/Abba-money-money-money-lyrics) [Disc](https://amzn.to/4kqNC8v)  
+> Lyrics by Novix  
 
-[Alternate, Earlier Version](https://suno.com/s/mayJ4Nuyaw4HApeX)
+[Alternate, Earlier Version](https://suno.com/s/mayJ4Nuyaw4HApeX)  [YouTube](https://youtube.com/shorts/PjTdDUS3Kpo)
 
 ---
 
