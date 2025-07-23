@@ -9,7 +9,8 @@ tags: humans, jobs
 
 
 
-> [🎵 Human in an AI World 🎵](https://suno.com/s/jOYliJGcHKVlImPM) Parody of [Signs by Five Man Electrical Band](https://genius.com/Five-man-electrical-band-signs-lyrics) [Disc](https://amzn.to/46eHywz)
+> [🎵 Human in an AI World 🎵](https://suno.com/s/jOYliJGcHKVlImPM)  [YouTube](https://youtu.be/5sJhBqaNJNs)  
+> Inspured by  [Signs by Five Man Electrical Band](https://genius.com/Five-man-electrical-band-signs-lyrics) [Disc](https://amzn.to/46eHywz)  
 > Lyrics by  Novix
 
 ---
@@ -105,7 +106,7 @@ You're still *you*. Your taste. Your obsession. Your contradictions. That strang
 AI may build the cathedral. But only you can say why it was built.
 
 ---
-[Sleep Little Human](https://suno.com/song/77548e60-d425-404e-b60a-28ec5d085f16?sh=nTet5jG3w0FgfigG)
+[Sleep Little Human](https://suno.com/song/77548e60-d425-404e-b60a-28ec5d085f16?sh=nTet5jG3w0FgfigG) [YouTube](https://youtube.com/shorts/W_wk5e1W7gY?feature=share)  
 
 ♪ ~Soft robotic tone, childlike synth pad underneath~
 
