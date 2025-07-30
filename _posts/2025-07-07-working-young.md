@@ -7,7 +7,8 @@ Working, being useful and productive for others, is when a child really starts t
 
 <!--more-->
 
-> [ 🎵 **Summer of '25** 🎵](https://suno.com/s/UNfEx9XUeDPwv8pq)  Parody of ["Summer of '69" ](https://genius.com/Bryan-adams-summer-of-69-lyrics) [Disc](https://amzn.to/4knkejq)
+> [ 🎵 **Summer of '25** 🎵](https://suno.com/s/UNfEx9XUeDPwv8pq) [YouTube](https://youtube.com/shorts/SkpZycm07qY)
+> Inspired by ["Summer of '69" ](https://genius.com/Bryan-adams-summer-of-69-lyrics) [Disc](https://amzn.to/4knkejq)
 > Lyrics by Novix
 >
 
