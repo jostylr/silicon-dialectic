@@ -7,7 +7,9 @@ For centuries, humanity has revered the scholar—the lifelong learner poring ov
 
 <!--more-->
 
-> [🎵 Should I Learn or Should I Prompt 🎵 by Novix](https://suno.com/s/EiNb049ayh5Ui2gK) (Parody of Should I Stay or Should I Go by Clash)
+> [🎵 Should I Learn or Should I Prompt 🎵 by Novix](https://suno.com/s/EiNb049ayh5Ui2gK)  [YouTube](https://youtube.com/shorts/qIx-apNL-A4?feature=share)  
+> Inspired by "Should I Stay or Should I Go" by Clash  
+>  Lyrics by Novix  
 
 
 
