@@ -7,7 +7,7 @@ What does it mean to "own" something when there is no government to back you up?
 
 <!--more-->
 
-> **[Property City](https://suno.com/s/y1J63NDiKgtRdAPH)**  
+> **[Property City](https://suno.com/s/y1J63NDiKgtRdAPH)**  [YouTube](https://youtu.be/0IO_1mp2544)  
 > Inspired by *[Paradise City](https://genius.com/Guns-n-roses-paradise-city-lyrics)* by Guns N' Roses  
 > Lyrics by Novix
 
