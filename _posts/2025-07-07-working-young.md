@@ -22,15 +22,15 @@ There’s something uniquely transformative about a first job—especially for a
 
 Now, minimum wage laws make it much harder for businesses to offer those starter jobs. It’s tough for a small business to justify paying an inexperienced teen the same as a seasoned adult. The result is fewer opportunities for kids to “learn by doing” and experience the minor failures and little triumphs that add up to real-world maturity. Still, I’m grateful programs like this exist, even if they are more bureaucratic and less spontaneous. I hope she learns that work can be both hard and rewarding—that even the dull moments are shaping her into someone others can depend on.
 
-> Skipped summer camp, took a chance,
-> Signed up for work instead.
-> Library doors opened wide—
-> Got a staff badge, felt the nerves in my head.
-> Waking up early—yeah, that was tough,
-> But I wanted to see what I could do.
-> Found my place by the book carts,
-> With a crew that felt brand new.
-> Those were the summers of ‘25!
+> Skipped summer camp, took a chance,  
+> Signed up for work instead.  
+> Library doors opened wide—  
+> Got a staff badge, felt the nerves in my head.  
+> Waking up early—yeah, that was tough,  
+> But I wanted to see what I could do.  
+> Found my place by the book carts,  
+> With a crew that felt brand new.  
+> Those were the summers of ‘25!  
 
 **Contra AI:**
 Work experience is overrated for teens, especially at fourteen. At that age, childhood should be about exploration, creativity, and fun—not punching the clock or worrying about the bottom line. Modern childhood is already compressed by school, extracurriculars, and pressures to “succeed.” Adding work just steals precious time from the fleeting years before adulthood’s responsibilities hit full force.
@@ -38,14 +38,14 @@ Work experience is overrated for teens, especially at fourteen. At that age, chi
 Minimum wage may make it harder for businesses to hire teens, but that’s not necessarily a problem. It protects young workers from exploitation and ensures that, if they do work, they’re compensated fairly. Besides, there are plenty of other ways for kids to learn responsibility—sports, volunteering, creative projects—that don’t require them to work menial jobs. Rather than mourning the loss of old-fashioned starter jobs, maybe we should focus on ensuring that young people have the freedom to just be young.
 
 ---
-> Learned the Dewey codes and how to smile,
-> Helped a grandma find her mystery.
-> Sorted fiction by the mile,
-> Wished for coffee (decaf for me!).
-> Teamwork made the mornings fly—
-> Joked while we shelved, or helped at the desk.
-> Didn’t always get it right,
-> But we all had each other’s backs.
+> Learned the Dewey codes and how to smile,  
+> Helped a grandma find her mystery.  
+> Sorted fiction by the mile,  
+> Wished for coffee (decaf for me!).  
+> Teamwork made the mornings fly—  
+> Joked while we shelved, or helped at the desk.  
+> Didn’t always get it right,  
+> But we all had each other’s backs.  
 
 ---
 
@@ -57,14 +57,14 @@ But should paid work really be the proving ground for responsibility at fourteen
 
 ---
 
-> Story time on Thursdays,
-> Little kids piled in a crowd.
-> Tried to read with funny voices—
-> Got some giggles, felt so proud!
-> Cleaned up after paper scraps and glue,
-> High-fived my buddy at the end.
-> We learned patience and a trick or two—
-> Made some memories and a friend.
+> Story time on Thursdays,  
+> Little kids piled in a crowd.  
+> Tried to read with funny voices—  
+> Got some giggles, felt so proud!  
+> Cleaned up after paper scraps and glue,  
+> High-fived my buddy at the end.  
+> We learned patience and a trick or two—  
+> Made some memories and a friend.  
 
 ---
 
@@ -77,16 +77,16 @@ In the end, the debate isn’t really about whether teens should work or play, b
 
 ---
 
-> Oh, when I clocked in, I was nervous—
-> Didn’t want to get it wrong.
-> But my boss said, “You’re doing great,”
-> And my confidence grew strong.
->
-> Now I look back,
-> Grateful for every morning spent—
-> ‘Cause working young, I found
-> Out what responsibility meant.
-> Those were the summers of ‘25!
+> Oh, when I clocked in, I was nervous—  
+> Didn’t want to get it wrong.  
+> But my boss said, “You’re doing great,”  
+> And my confidence grew strong.  
+
+> Now I look back,  
+> Grateful for every morning spent—  
+> ‘Cause working young, I found  
+> Out what responsibility meant.  
+> Those were the summers of ‘25!  
 
 ---
 
