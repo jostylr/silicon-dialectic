@@ -7,7 +7,7 @@ The real lesson of conventional schools isn’t math or reading—it’s obedien
 
 <!--more-->
 
-**[Schoolbreak](https://suno.com/s/7zxtkLJmoMBJrhia)**  
+**[Schoolbreak](https://suno.com/s/7zxtkLJmoMBJrhia)** [YouTube](https://youtu.be/vGbSpm-SHrg)   
 Inspired by "[Jailbreak](https://genius.com/Thin-lizzy-jailbreak-lyrics)" by Thin Lizzy  
 Lyrics by Novix  
 
