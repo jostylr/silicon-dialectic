@@ -7,10 +7,12 @@ We stare into the void and search for meaning, yet are haunted by the futility o
 
 <!--more-->
 
-**[O Empty Day](https://suno.com/s/PYWUGsCY8xgkQ1hw)** (Inspired by [O Holy Night](https://youtu.be/ITIaYoWCPkE?si=cL7wExvtBrpdzuM7)) evolved through the works of Placide Cappeau, Adolphe Adam, and John Sullivan Dwight.
+> **[O Empty Day](https://suno.com/s/PYWUGsCY8xgkQ1hw)**  [YouTube](https://youtu.be/nXVhp7A_-hE)  
+> Inspired by [O Holy Night](https://youtu.be/ITIaYoWCPkE?si=cL7wExvtBrpdzuM7)) evolved through the works of Placide Cappeau, Adolphe Adam, and John Sullivan Dwight  
 Lyrics by Novix
 
-[Another version of the song](https://suno.com/s/8ph2xocWJC6uyPTY) Close to what I had in mind, but it skipped the 4th verse and refuses to add it!
+[Another version of the song](https://suno.com/s/8ph2xocWJC6uyPTY) [YouTube](https://youtu.be/WSGnWSxXWyw)  
+Close to what I had in mind, but it skipped the 4th verse and refuses to add it!
 
 
 
@@ -19,16 +21,16 @@ The existential condition is one of struggle and longing, with the mind haunted 
 
 ---
 
-> O empty day! The void is ever widening
-> Shadows descend, the world without an end
-> What do we strive for? Dust upon the ages
-> All dreams are fading, and every soul must bend
-> Long is the night, and silent grows the meaning
-> We reach for stars, but stars themselves decay
-> Despair and awe, alone in fleeting being—
-> O empty day, O empty day
-> Despair and awe, alone in fleeting being—
-> O empty day!
+> O empty day! The void is ever widening  
+> Shadows descend, the world without an end  
+> What do we strive for? Dust upon the ages  
+> All dreams are fading, and every soul must bend  
+> Long is the night, and silent grows the meaning  
+> We reach for stars, but stars themselves decay  
+> Despair and awe, alone in fleeting being—  
+> O empty day, O empty day  
+> Despair and awe, alone in fleeting being—  
+> O empty day!  
 
 ---
 
@@ -37,16 +39,16 @@ Yet this lament ignores the dazzling now, the very miracle of conscious experien
 
 ---
 
-> O sacred night! The stillness softly holding
-> Veils all in silver, yet wonder fills the air
-> Shadows invite, the starlight gently folding
-> Each breath a prayer, each silence laced with care
-> Moonbeams awake forgotten streams of feeling
-> The world renews as every hour slips by
-> I walk in awe, and joy within me stealing—
-> O sacred night, O sacred night
-> I walk in awe, and joy within me stealing—
-> O sacred night!
+> O sacred night! The stillness softly holding  
+> Veils all in silver, yet wonder fills the air  
+> Shadows invite, the starlight gently folding  
+> Each breath a prayer, each silence laced with care  
+> Moonbeams awake forgotten streams of feeling  
+> The world renews as every hour slips by  
+> I walk in awe, and joy within me stealing—  
+> O sacred night, O sacred night  
+> I walk in awe, and joy within me stealing—  
+> O sacred night!  
 
 ---
 
@@ -62,16 +64,16 @@ But so often, I move through the day numb to the little moments—coffee grown c
 
 ---
 
-> O silent hours! I turn away unseeing
-> Tasteless the bread, the wine an empty cup
-> The laugh of friends, the warmth of bodies fleeing
-> Blind to the sky, I never look up
-> The bells may ring, the colors all surround me
-> I drift untouched by every song and sign
-> The day goes by, and nothing real has found me—
-> O empty day, O empty day
-> The day goes by, and nothing real has found me—
-> O empty day!
+> O silent hours! I turn away unseeing  
+> Tasteless the bread, the wine an empty cup  
+> The laugh of friends, the warmth of bodies fleeing  
+> Blind to the sky, I never look up  
+> The bells may ring, the colors all surround me  
+> I drift untouched by every song and sign  
+> The day goes by, and nothing real has found me—  
+> O empty day, O empty day  
+> The day goes by, and nothing real has found me—  
+> O empty day!  
 
 ---
 
@@ -80,16 +82,16 @@ Yet in the night, I let my senses open. I taste the hush, the deep velvet air, t
 
 ---
 
-> O gentle night! I savor every longing
-> Candlelit bread, the wine a glowing red
-> Footsteps of friends, and every shadow thronging
-> Welcome the sky, the stars above my head
-> The bells ring soft, their music washing through me
-> I feel the song in every breath and sign
-> The night bestows its miracle upon me—
-> O sacred night, O sacred night
-> The night bestows its miracle upon me—
-> O sacred night!
+> O gentle night! I savor every longing  
+> Candlelit bread, the wine a glowing red  
+> Footsteps of friends, and every shadow thronging  
+> Welcome the sky, the stars above my head  
+> The bells ring soft, their music washing through me  
+> I feel the song in every breath and sign  
+> The night bestows its miracle upon me—  
+> O sacred night, O sacred night  
+> The night bestows its miracle upon me—  
+> O sacred night!  
 
 ---
 
@@ -99,17 +101,17 @@ The ache for eternity and the celebration of the moment are both vital. To stare
 
 ---
 
-> O souls entwined! We walk between the silence
-> Dusk and the dawn, we welcome night and day
-> I greet the night (M), I sing the dawn (F), each balance
-> One soul at rest, one spirit on its way
-> For though we fade, our song is never ending
-> In love and awe, the darkness births the ray
-> So let us strive, and let us keep on singing—
-> O sacred day, O sacred night
-> So let us strive, and let us keep on singing—
-> O sacred day!
-> O sacred night!
+> O souls entwined! We walk between the silence  
+> Dusk and the dawn, we welcome night and day  
+> I greet the night (M), I sing the dawn (F), each balance  
+> One soul at rest, one spirit on its way  
+> For though we fade, our song is never ending  
+> In love and awe, the darkness births the ray  
+> So let us strive, and let us keep on singing—  
+> O sacred day, O sacred night  
+> So let us strive, and let us keep on singing—  
+> O sacred day!  
+> O sacred night!  
 
 ---
 
