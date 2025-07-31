@@ -7,7 +7,8 @@ The monster in the corner once ruled your nightmares, but what if the real power
 
 <!--more-->
 
-> [**Withering Away**](https://suno.com/s/e6GEkXhrqVlPv8K4) Inspired by [The Monster is Loose](https://genius.com/Meat-loaf-the-monster-is-loose-lyrics) by Meat Loaf  [Disc](https://amzn.to/46vDzvo)
+> [**The Monster Whithers**](https://suno.com/s/e6GEkXhrqVlPv8K4) [YouTube](https://youtu.be/D8RsZfZ2oTc)  
+> Inspired by [The Monster is Loose] (https://genius.com/Meat-loaf-the-monster-is-loose-lyrics) by Meat Loaf  [Disc](https://amzn.to/46vDzvo)  
 > Lyrics by Novix
 
 ---
@@ -20,14 +21,14 @@ The real revolution begins not with barricades or ballots, but with quietly with
 History is full of those who imagined a world without rulers. But the monster only withers when it’s ignored, not attacked. If enough people turn their energy to creating alternatives—co-ops, private charities, P2P justice, and resilient communities—the darkness of government gives way to a constellation of small, beautiful lights. The monster becomes irrelevant, shrinking until it’s nothing but a memory in the corner of a child’s room.
 
 ---
-> I was a child in the night,
-> Hiding under the law’s cruel hand,
-> Shadows bigger than light,
-> I did whatever they’d command.
-> But now the fear is fading,
-> And I’m building something new,
-> The monster in the corner
-> Can’t touch what’s true.
+> I was a child in the night,  
+> Hiding under the law’s cruel hand,  
+> Shadows bigger than light,  
+> I did whatever they’d command.  
+> But now the fear is fading,  
+> And I’m building something new,  
+> The monster in the corner  
+> Can’t touch what’s true.  
 
 ---
 
@@ -38,14 +39,14 @@ History shows that attempts to abolish the state often pave the way for even mor
 Building voluntary systems sounds appealing, but they’ve always operated within or alongside the state, not in place of it. Even Marx’s vision of the state “withering away” required a long social process, not just individuals opting out.
 
 ---
-> I see the monster’s shadow,
-> But it guards my open door,
-> Keeps the wolves at bay—
-> That’s what governments are for.
-> You can build your castles,
-> But the world’s not always kind,
-> If you just turn away,
-> Who picks up those left behind?
+> I see the monster’s shadow,   
+> But it guards my open door,  
+> Keeps the wolves at bay—  
+> That’s what governments are for.  
+> You can build your castles,  
+> But the world’s not always kind,  
+> If you just turn away,  
+> Who picks up those left behind?  
 
 ---
 
@@ -56,14 +57,14 @@ Voluntaryist and anarcho-capitalist models aren’t utopias; they’re about ack
 It’s not about abandoning those left behind. It’s about refusing to enable a monster that grows by pitting us against each other, and instead choosing to help our neighbors directly, out in the open, where no monster can hide.
 
 ---
-> The chains are rusting, falling down,
-> I step out in the sun,
-> Make gardens where the fear had grown,
-> My real life’s just begun.
-> The monster’s only living
-> If I feed it every day—
-> Turn my back, build something better,
-> And watch it whither away.
+> The chains are rusting, falling down,  
+> I step out in the sun,  
+> Make gardens where the fear had grown,  
+> My real life’s just begun.  
+> The monster’s only living  
+> If I feed it every day—  
+> Turn my back, build something better,  
+> And watch it whither away.  
 
 ---
 
@@ -73,14 +74,14 @@ But power never truly disperses; it coalesces, finds new forms, and often return
 And most people, truthfully, do not want to walk away from government—they want it to serve them better. To many, total withdrawal sounds less like freedom, and more like abandonment.
 
 ---
-> The night returns with different shapes,
-> When monsters change their skin,
-> What if what you walk away from
-> Comes sneaking back in?
-> I’d rather fix the system,
-> Than watch it rot or fray—
-> If you just turn your back,
-> What monsters fill the day?
+> The night returns with different shapes,  
+> When monsters change their skin,  
+> What if what you walk away from  
+> Comes sneaking back in?  
+> I’d rather fix the system,  
+> Than watch it rot or fray—  
+> If you just turn your back,  
+> What monsters fill the day?  
 
 ---
 
@@ -90,14 +91,14 @@ The lesson, then, is not to destroy but to outgrow. Not to “fix” the monster
 Let the monster whither, not through violence or denial, but by showing, living, and building a better way.
 
 ---
-> Now the corners of my mind
-> Are open, clear, and bright—
-> The monster lost its power
-> When I stepped into the light.
-> If we build what’s beautiful,
-> The darkness cannot stay—
-> Let the monster whither gently
-> As we greet a freer day.
+> Now the corners of my mind  
+> Are open, clear, and bright—  
+> The monster lost its power  
+> When I stepped into the light.  
+> If we build what’s beautiful,  
+> The darkness cannot stay—  
+> Let the monster whither gently  
+> As we greet a freer day.  
 
 ---
 
