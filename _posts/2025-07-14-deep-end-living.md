@@ -7,8 +7,8 @@ The future doesn’t belong to the carefully padded and perpetually guided—it 
 
 <!--more-->
 
-> [**Mama Don’t Coddle** ](https://suno.com/s/aZpFrbOVIr7NeeA0)
-> Inspired by ["Papa Don’t Preach" by Madonna ](https://genius.com/Madonna-papa-dont-preach-lyrics)
+> [**Mama Don’t Coddle** ](https://suno.com/s/aZpFrbOVIr7NeeA0) [YouTube](https://youtube.com/shorts/AakoOm2YIR8)  
+> Inspired by ["Papa Don’t Preach" by Madonna ](https://genius.com/Madonna-papa-dont-preach-lyrics)  
 > Lyrics by Novix
 
 
@@ -19,12 +19,12 @@ Let’s be honest—kids don’t need another helicopter; they need a map and a 
 With the world shifting under our feet (thanks, AI!), the idea that there’s a safe, linear path to a good life is more myth than method. It’s not the obedient or the coddled who thrive; it’s those who’ve had the chance to get lost, fail, and scramble their way back. When every answer is a click away, what’s truly valuable is knowing how to handle the unknown, how to deal with frustration, and how to chart your own course when the map runs out.
 
 ---
-> Mama don’t coddle, I’m in deep
-> I’m gonna keep my troubles
-> Mama don’t coddle, I need some heat
-> Gonna swim or tumble
-> (Mama don’t coddle, no, no, no)
-> (Mama don’t coddle)
+> Mama don’t coddle, I’m in deep  
+> I’m gonna keep my troubles  
+> Mama don’t coddle, I need some heat  
+> Gonna swim or tumble  
+> (Mama don’t coddle, no, no, no)  
+> (Mama don’t coddle)  
 
 ---
 
@@ -36,12 +36,12 @@ But the deep end is filled with dangers that didn’t exist before, or that now 
 Parents coddle not because they don’t want their kids to grow, but because the cost of a single mistake can be so high—online reputations ruined in seconds, predators lurking in digital spaces, and social isolation growing ever deeper. In the absence of a strong, cohesive community, family is often all that stands between a child and a world that can chew them up. Keeping kids safe, watching their backs, isn’t coddling—it’s adaptation.
 
 ---
-> Mama, I know you want to hold me
-> But I need trouble now
-> You see the world gets colder
-> If I don’t learn somehow
-> (Mama don’t coddle, let me be)
-> (I gotta see what’s out there)
+> Mama, I know you want to hold me  
+> But I need trouble now  
+> You see the world gets colder  
+> If I don’t learn somehow  
+> (Mama don’t coddle, let me be)  
+> (I gotta see what’s out there)  
 
 ---
 
@@ -54,12 +54,12 @@ It’s precisely because the world is unpredictable and the social safety net th
 There’s a balance. Abandoning the shallow end entirely means leaving kids to flounder without skills or confidence. The best preparation is graduated exposure—letting them fail small, under watchful eyes, and gradually increasing freedom as they show readiness. Total protection is a trap, but so is reckless exposure.
 
 ---
-> Mama don’t coddle, I’m in deep
-> I’m gonna keep my troubles
-> Mama don’t coddle, I need some heat
-> Gonna swim or tumble
-> (Mama don’t coddle, let me try)
-> (Mama don’t coddle, don’t say goodbye)
+> Mama don’t coddle, I’m in deep  
+> I’m gonna keep my troubles  
+> Mama don’t coddle, I need some heat  
+> Gonna swim or tumble  
+> (Mama don’t coddle, let me try)  
+> (Mama don’t coddle, don’t say goodbye)  
 
 ---
 
