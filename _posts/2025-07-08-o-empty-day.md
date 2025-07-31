@@ -11,8 +11,8 @@ We stare into the void and search for meaning, yet are haunted by the futility o
 > Inspired by [O Holy Night](https://youtu.be/ITIaYoWCPkE?si=cL7wExvtBrpdzuM7)) evolved through the works of Placide Cappeau, Adolphe Adam, and John Sullivan Dwight  
 Lyrics by Novix
 
-[Another version of the song](https://suno.com/s/8ph2xocWJC6uyPTY) [YouTube](https://youtu.be/WSGnWSxXWyw)  
-Close to what I had in mind, but it skipped the 4th verse and refuses to add it!
+> [Another version of the song](https://suno.com/s/8ph2xocWJC6uyPTY) [YouTube](https://youtu.be/WSGnWSxXWyw)  
+> Close to what I had in mind, but it skipped the 4th verse and refuses to add it!
 
 
 
