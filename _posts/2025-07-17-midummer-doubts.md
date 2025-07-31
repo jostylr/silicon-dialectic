@@ -7,8 +7,8 @@ The promise of summer brings dreams of open time and sprawling projects. But com
 
 <!--more-->
 
-> [**But There Ain’t No Time (for the Summer Dos)**](https://suno.com/s/8tahZ3Hjo16TyhtX)
-> Inspired by [*Summertime Blues*](https://genius.com/Eddie-cochran-summertime-blues-lyrics) by Eddie Cochran
+> [**But There Ain’t No Time (for the Summer Dos)**](https://suno.com/s/8tahZ3Hjo16TyhtX) [YouTube](https://youtube.com/shorts/ts_3h8uA754)  
+> Inspired by [*Summertime Blues*](https://genius.com/Eddie-cochran-summertime-blues-lyrics) by Eddie Cochran  
 > Lyrics by Novix
 
 ---
@@ -25,25 +25,25 @@ This isn’t failure—it’s physics. Energy spreads. Focus thins. Summer is no
 
 ---
 
-> I’m gonna build a course,
-> Start a side biz too
-> Launch a website, finish
-> That AI that can chew
-> But it’s July now
-> My motivation flew—
+> I’m gonna build a course,  
+> Start a side biz too  
+> Launch a website, finish  
+> That AI that can chew  
+> But it’s July now  
+> My motivation flew—  
 >
-> **There ain’t no time
-> For the many summer dos**
+> **There ain’t no time  
+> For the many summer dos**  
 >
-> I had a notion
-> I'd knock it out with flair
-> But now the cluttered planner
-> Just gives me a blank stare
-> The heat is rising
-> And so is my excuse—
+> I had a notion  
+> I'd knock it out with flair  
+> But now the cluttered planner  
+> Just gives me a blank stare  
+> The heat is rising  
+> And so is my excuse—  
 >
-> **There ain’t no time
-> For the many summer dos**
+> **There ain’t no time  
+> For the many summer dos**  
 >
 > ---
 
@@ -56,25 +56,25 @@ Relax. You're not behind. You're alive.
 
 ---
 
-> I tried to plan a month
-> Like a roadmap tight
-> Got stuck in trello dreams
-> And stayed up half the night
-> My AI pal
-> Just asked me what to do—
+> I tried to plan a month   
+> Like a roadmap tight  
+> Got stuck in trello dreams  
+> And stayed up half the night  
+> My AI pal  
+> Just asked me what to do—  
 >
-> **There ain’t no time
-> For the many summer dos**
+> **There ain’t no time  
+> For the many summer dos**  
 >
-> I told myself I’d
-> Learn to weld and code
-> Then fix my bike and
-> Hit that writer’s mode
-> But all I’ve done
-> Is scroll and maybe snooze—
+> I told myself I’d  
+> Learn to weld and code   
+> Then fix my bike and  
+> Hit that writer’s mode  
+> But all I’ve done  
+> Is scroll and maybe snooze—  
 >
-> **There ain’t no time
-> For the many summer dos**
+> **There ain’t no time  
+> For the many summer dos**  
 >
 > ---
 
