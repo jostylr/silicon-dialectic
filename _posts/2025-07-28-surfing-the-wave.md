@@ -7,9 +7,9 @@ Quantum mechanics doesn't have to be mind-boggling! Imagine electrons riding a q
 
 <!--more-->
 
-> **[Catch a Wave (Electron's Ride)](https://suno.com/s/iPFMXESRpt3LAuHt)**  
-Parody of "[Catch a Wave](https://genius.com/The-beach-boys-catch-a-wave-lyrics)" by The Beach Boys  
-Lyrics by Novix.
+> **[Catch a Wave (Electron's Ride)](https://suno.com/s/iPFMXESRpt3LAuHt)**  [YouTube](https://youtube.com/shorts/bwj_eTqltgY)  
+> Inspired by "[Catch a Wave](https://genius.com/The-beach-boys-catch-a-wave-lyrics)" by The Beach Boys  
+Lyrics by Novix
 
 ---
 
