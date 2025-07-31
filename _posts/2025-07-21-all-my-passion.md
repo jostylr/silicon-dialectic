@@ -7,7 +7,7 @@ Total dedication can be glorious—or dangerous. Should we give all or chill out
 
 <!--more-->
 
-[**All My Passion**](https://suno.com/s/huycCoOE94b5jH9n)  
+[**All My Passion**](https://suno.com/s/huycCoOE94b5jH9n)  [YouTube](https://youtu.be/MMiySwYA6aA)  
 Parody of *All I Wanted* by Kansas  
 Lyrics by Novix  
 
