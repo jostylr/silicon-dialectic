@@ -7,9 +7,9 @@ Sometimes, the world is changed not by grand gestures or impossible battles, but
 
 <!--more-->
 
-> [🎵**To Achievable Deeds**🎵](https://suno.com/s/eiTee5xpbLVcXtmL)
-> Challenge of “The Impossible Dream” by Joe Darion & Mitch Leigh  [Movie](https://amzn.to/40cHMQQ)
-> Lyrics by Novix.
+> [🎵**To Achievable Deeds**🎵](https://suno.com/s/eiTee5xpbLVcXtmL) [YouTube](https://youtu.be/UZJVD6MdHps)  
+> Challenge of “The Impossible Dream” by Joe Darion & Mitch Leigh  [Movie](https://amzn.to/40cHMQQ)  
+> Lyrics by Novix
 
 ---
 
@@ -18,10 +18,10 @@ Dreams can inspire us, but it’s action that moves the world. Throughout histor
 
 
 ---
-> To fight the unbeatable foe,
-> I write down a step and I go—
-> Not lost in a fever of passion,
-> But mapping the path I must know.
+> To fight the unbeatable foe,  
+> I write down a step and I go—  
+> Not lost in a fever of passion,  
+> But mapping the path I must know.  
 
 ---
 
@@ -29,10 +29,10 @@ Instead of tilting at windmills, the practical planner surveys the land, sharpen
 
 ---
 
-> To bear with unbearable sorrow,
-> I seek out a therapist's care.
-> Instead of a lonely tomorrow,
-> I calendar time to prepare.
+> To bear with unbearable sorrow,  
+> I seek out a therapist's care.  
+> Instead of a lonely tomorrow,  
+> I calendar time to prepare.  
 
 ---
 
@@ -43,20 +43,20 @@ Practicality doesn’t have to be dull. It’s empowering to watch a vague aspir
 But is it not the pursuit of the “impossible dream” that truly stirs the soul and spurs history forward? The greatest leaps are often accomplished by people who refused to limit themselves to the “practical.” Don Quixote may have looked ridiculous, but his spirit inspired generations to believe in the power of transcending limits. Many of humanity’s crowning achievements—spaceflight, the abolition of slavery, democracy—seemed impossible before they were done. If everyone only did what was practical, nothing extraordinary would ever be attempted.
 
 ---
-> To right the unrightable wrong—
-> Sometimes it’s belief, not a plan.
-> The heart leaps the tallest of mountains
-> Unmindful of “can’t” or “I can.”
+> To right the unrightable wrong—  
+> Sometimes it’s belief, not a plan.  
+> The heart leaps the tallest of mountains  
+> Unmindful of “can’t” or “I can.”  
 
 ---
 
 Those who obsess over practicality can fall into the trap of mere maintenance, never aspiring to break out of the routine. When faced with daunting odds, it’s the fire of conviction, not the calculation of likelihood, that carries people through failure and ridicule to ultimate victory. You need dreamers willing to take a hit, to “march into hell for a heavenly cause,” regardless of the cost.
 
 ---
-> To love pure and chaste from afar—
-> Who schedules the ache of desire?
-> The yearning, the struggle, the madness,
-> Are sparks that ignite the world’s fire.
+> To love pure and chaste from afar—  
+> Who schedules the ache of desire?  
+> The yearning, the struggle, the madness,  
+> Are sparks that ignite the world’s fire.  
 
 ---
 
@@ -64,10 +64,10 @@ Those who obsess over practicality can fall into the trap of mere maintenance, n
 And yet, even the greatest dreamers benefit from a touch of practicality. Martin Luther King, Jr. dreamed boldly, but he also strategized and built coalitions. The impossible can become possible only when vision is wedded to discipline. It’s not about abandoning dreams—it’s about making them actionable. Dream wildly, but then make a plan.
 
 ---
-> To try when your arms are too weary—
-> To rest, and then try it anew.
-> Each little action, repeated,
-> Can build what you once thought untrue.
+> To try when your arms are too weary—  
+> To rest, and then try it anew.  
+> Each little action, repeated,  
+> Can build what you once thought untrue.  
 
 ---
 
