@@ -7,8 +7,8 @@ Ever feel like the world is urging you to pack a bag and explore, while a quiete
 
 <!--more-->
 
-> [🎵**House of the Stay-at-home Son**🎵 ](https://suno.com/s/nMBRxaac7iI5TjLN)
-> Inspired by [*House of the Rising Sun*](https://youtu.be/xjHmXq0wdl4)  [Wiki](https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun)
+> [🎵**House of the Stay-at-home Son**🎵 ](https://suno.com/s/nMBRxaac7iI5TjLN) [YouTube](https://youtube.com/shorts/tklOADbJHBE)  
+> Inspired by [*House of the Rising Sun*](https://youtu.be/xjHmXq0wdl4)  [Wiki](https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun)  
 > Lyrics by Novix
 
 ---
@@ -20,10 +20,10 @@ By staying home, we allow ourselves the mental space to let restfulness mature i
 
 ---
 
-> There is a house in our hometown
-> They call the Stay-at-home Son
-> And it's been the fate of many a bored soul
-> Just sittin’ when day is done
+> There is a house in our hometown  
+> They call the Stay-at-home Son  
+> And it's been the fate of many a bored soul  
+> Just sittin’ when day is done  
 
 ---
 
@@ -34,10 +34,10 @@ While not every trip is transformative, the very act of navigating new places, l
 
 ---
 
-> My mother told me, “Son,
-> Don’t waste your youth away—
-> Go see the world, don’t sit and yawn,
-> Or you’ll regret the stay.”
+> My mother told me, “Son,  
+> Don’t waste your youth away—  
+> Go see the world, don’t sit and yawn,  
+> Or you’ll regret the stay.”  
 
 ---
 
@@ -46,10 +46,10 @@ But can every journey be so meaningful? Much of modern travel is pre-packaged an
 
 ---
 
-> Oh, but I’ve seen a thousand screens
-> And walked my well-worn floor,
-> Yet in my house, when silence grows,
-> I build my dreams once more.
+> Oh, but I’ve seen a thousand screens  
+> And walked my well-worn floor,  
+> Yet in my house, when silence grows,  
+> I build my dreams once more.  
 
 ---
 
@@ -58,10 +58,10 @@ Yet even a lackluster trip can yield surprise: a chance encounter, an unexpected
 
 ---
 
-> So wander if you must, my friend,
-> Or settle in your den—
-> Just know that life’s a journey still,
-> Whether out or home again.
+> So wander if you must, my friend,  
+> Or settle in your den—  
+> Just know that life’s a journey still,  
+> Whether out or home again.  
 
 ---
 
