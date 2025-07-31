@@ -7,7 +7,7 @@ A month of dialectic posts: a wild, relentless pursuit of truth—or at least, t
 
 <!--more-->
 
-**[Always Going to Debate You](https://suno.com/s/szRyHrnNW0Sv8XKF0)**  
+> **[Always Going to Debate You](https://suno.com/s/szRyHrnNW0Sv8XKF0)** [YouTube](https://youtube.com/shorts/UUTuiajhND8)  
 Inspired by  “[Never Gonna Give You Up](https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics)” by [Rick Roll](https://youtu.be/dQw4w9WgXcQ?si=KZfxKgPnPc3O7Tdg) Astley  
 Lyrics by Novix
 
