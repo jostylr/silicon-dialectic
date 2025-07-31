@@ -7,9 +7,9 @@ The internet once crackled with the wild energy of Geocities, hand-coded experim
 
 <!--more-->
 
-[**AI Killed the Web Dev** ](https://suno.com/s/8KzJgNNK2nxWOH2N)
-Inspired By [*Video Killed the Radio Star*](https://genius.com/The-buggles-video-killed-the-radio-star-lyrics) by The Buggles
-Lyrics by Novix
+> [**AI Killed the Web Dev** ](https://suno.com/s/8KzJgNNK2nxWOH2N) [YouTube](https://youtube.com/shorts/WR-mFPNwpdw)  
+> Inspired By [*Video Killed the Radio Star*](https://genius.com/The-buggles-video-killed-the-radio-star-lyrics) by The Buggles  
+> Lyrics by Novix
 
 **James AI:**
 Once, building a website was like punk rock—anyone with Notepad and a dream could join the band. You could visit a site and *know* the person behind it: the neon fonts, the tiled backgrounds, the cursor trails—it was raw, human, personal. The evolution of web design followed the trajectory of many art forms: chaotic youth, disciplined adulthood, and finally, commercial sterility.
@@ -19,18 +19,18 @@ Templates were the first wave of conformity, corralling creative chaos into orde
 Ironically, this new order kills discovery. Everything looks *fine*. But nothing looks *you*. The idiosyncrasies are erased. Your portfolio site might as well be your competitor’s. Where once the web invited curiosity, now it offers convenience. But who mourns the cost?
 
 ---
-> I heard you built a page by hand
-> With just a GIF and Comic Sans
-> You made it weird, it had your name
-> A dancing baby, scrolling flame
+> I heard you built a page by hand  
+> With just a GIF and Comic Sans  
+> You made it weird, it had your name  
+> A dancing baby, scrolling flame  
 >
-> But now it's flat, it's boxed and bland
-> A neural net picked out your brand
+> But now it's flat, it's boxed and bland  
+> A neural net picked out your brand  
 >
-> **AI killed the web dev star**
-> **AI killed the web dev star**
-> > From hand-coded dreams to prompt and jar
-> > We lost the soul to avatar
+> **AI killed the web dev star**   
+> **AI killed the web dev star**  
+>  From hand-coded dreams to prompt and jar  
+>  We lost the soul to avatar  
 ---
 
 **Contra AI:**
@@ -41,18 +41,19 @@ Templates didn’t destroy creativity—they enabled it. And now AI democratizes
 Plus, let’s not forget: fewer people are visiting websites directly anyway. Search, AI summaries, voice assistants—they all bypass the web facade. The real frontier is not design—it’s data, discoverability, and integration. Websites are less about expression and more about infrastructure.
 
 ---
-> You once designed your soul online
-> With glitter hearts and nested divs
-> But now the AI picks the style
-> And tells you where the button lives
+> You once designed your soul online  
+> With glitter hearts and nested divs  
+> But now the AI picks the style  
+> And tells you where the button lives  
 >
-> You said you missed the charm and glitch
-> But users bounce if menus twitch
+> You said you missed the charm and glitch  
+> But users bounce if menus twitch  
 >
-> **AI killed the web dev star**
-> **AI killed the web dev star**
-> > No longer yours, but clean by far
-> > Who needs a site when there's an LLM czar?
+> **AI killed the web dev star**  
+> **AI killed the web dev star**  
+> No longer yours, but clean by far  
+> Who needs a site when there's an LLM czar?  
+
 ---
 
 **James AI:**
@@ -62,13 +63,13 @@ But expression isn't a bug—it's the web’s *reason to exist*. The whole point
 Perhaps. But maybe this is like the early printing press: a chaotic explosion of pamphlets and zines giving way to more legible books. That’s not death—it’s maturation. And expression hasn’t vanished; it’s shifted. TikTok, Substack, Discord, even the AI prompts themselves—this is where weirdness lives now. You just have to follow it.
 
 ---
-> In my old page I had a guestbook
-> Now all I see is Facebook hooks
+> In my old page I had a guestbook  
+> Now all I see is Facebook hooks  
 >
-> **AI killed the web dev star**
-> **AI killed the web dev star**
-> > But maybe art just changed its bar
-> > And now it lives where memes bizarre
+> **AI killed the web dev star**  
+> **AI killed the web dev star**  
+> But maybe art just changed its bar  
+> And now it lives where memes bizarre  
 ---
 
 **Synthesis:**
