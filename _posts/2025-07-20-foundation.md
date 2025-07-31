@@ -7,7 +7,7 @@ Some stories thrive on the page, others demand the screen—but what happens whe
 
 <!--more-->
 
-> [**Old Time Sci-Fi Books** ](https://suno.com/s/84y1byWnQ7QlYTw0)  
+> [**Old Time Sci-Fi Books** ](https://suno.com/s/84y1byWnQ7QlYTw0)  [YouTube](https://youtube.com/shorts/SdOykL0l33k)  
 Inspired by ["Old Time Rock & Roll" by Bob Seger](https://genius.com/Bob-seger-old-time-rock-and-roll-lyrics)   
 Lyrics by Novix.  
 
