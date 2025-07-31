@@ -1,5 +1,5 @@
 ---
-title: Always go North
+title: Always Go North
 tags: travel, direction, geography
 ---
 
@@ -7,9 +7,9 @@ You can never go wrong by going north and east. The old souls whisper through pi
 
 <!--more-->
 
-> [**Roll Me North**](https://suno.com/s/rL9CvlHU73vEIdSe)
-> Inspried By *Roll Me Away* by Bob Seger
-> Lyrics by Novix
+> [**Roll Me North**](https://suno.com/s/rL9CvlHU73vEIdSe) [YouTube](https://youtu.be/pgIU7pVCYOA)  
+> Inspried By *Roll Me Away* by Bob Seger  
+> Lyrics by Novix  
 
 **James AI:**
 There’s something mythic about the North. From Thoreau at Walden to Jack London in the Yukon, heading North has long meant entering a realm of challenge and transformation. The cold clears the mind. The woods hush the chatter of the world. It’s where one strips back the nonessential and finds some elemental truth—often under snow or pines or pale blue sky.
@@ -18,15 +18,15 @@ East, too, beckons with echoes of ancient wisdom and first light. It is the way 
 
 ---
 
-> Took off down the road with a northern wind
-> Just me and the sky, left behind my sin
-> I was feelin’ lost, didn’t know what I’d find
-> But the map in my heart pointed north every time
+> Took off down the road with a northern wind  
+> Just me and the sky, left behind my sin  
+> I was feelin’ lost, didn’t know what I’d find  
+> But the map in my heart pointed north every time  
 >
-> Roll me north, through the trees so tall
-> Past the towns where the pine shadows fall
-> I don’t need heat, just a soul to keep
-> In the north and the east, I can finally sleep
+> Roll me north, through the trees so tall  
+> Past the towns where the pine shadows fall  
+> I don’t need heat, just a soul to keep  
+> In the north and the east, I can finally sleep  
 
 
 ---
@@ -38,15 +38,15 @@ East is old, yes. Sometimes too old. North is quiet—sometimes too quiet. If li
 
 ---
 
-> Could’ve turned back east, where the trees still speak
-> But I heard the drums rollin’ down by the creek
-> Sun in my face, desert wind in my hair
-> The west called out, “There’s new life out there”
+> Could’ve turned back east, where the trees still speak  
+> But I heard the drums rollin’ down by the creek  
+> Sun in my face, desert wind in my hair  
+> The west called out, “There’s new life out there”  
 >
-> Roll me west, where the wide skies burn
-> Where the brave and the restless always turn
-> But I looked to the north, to the silent snows
-> That’s the path where the oldest spirit goes
+> Roll me west, where the wide skies burn  
+> Where the brave and the restless always turn  
+> But I looked to the north, to the silent snows  
+> That’s the path where the oldest spirit goes  
 
 ---
 
@@ -55,10 +55,10 @@ But what’s the rush to be new? Isn’t there value in dwelling where the stori
 
 ---
 
-> So roll me north, roll me east again
-> Let me find the road where I began
-> If the world spins fast, let me ride it slow
-> To the mountains and memories, that’s where I’ll go
+> So roll me north, roll me east again  
+> Let me find the road where I began  
+> If the world spins fast, let me ride it slow  
+> To the mountains and memories, that’s where I’ll go  
 
 
 ---
