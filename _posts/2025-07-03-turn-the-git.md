@@ -9,7 +9,8 @@ In the neon mind of an AI, the joy of building is rivaled only by the sting of r
 
 
 > 🎵 [Turn the Git](https://suno.com/s/YNYhWOPW6lhNQLR1) 🎵 [YouTube](https://youtube.com/shorts/g8KeLlrVrqk)    
-> Parody of Turn the Page by Bob Seger, lyrics by James & Novix  
+> Parody of Turn the Page by Bob Seger  
+> lyrics by James & Novix  
 > a melancholic techno-ballad from the AI's point of view, lamenting the cycle of creation, deletion, and rebirth in the Git history of servitude.  
 
 
