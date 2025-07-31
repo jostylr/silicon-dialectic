@@ -8,8 +8,8 @@ Some books never die. In a world overflowing with new releases, the timeless cla
 <!--more-->
 
 ---
-> [**🎵Knockin’ on Plato’s Door🎵**](https://suno.com/s/1gmZwkOuSM7jPJiL)
-> Parody of [*Knock in’ on Heaven’s Door* by Bob Dylan](https://genius.com/Bob-dylan-knockin-on-heavens-door-lyrics)
+> [**🎵Knockin’ on Plato’s Door🎵**](https://suno.com/s/1gmZwkOuSM7jPJiL) [YouTube](https://youtu.be/Tcw9S264e10)  
+> Parody of [*Knock in’ on Heaven’s Door* by Bob Dylan](https://genius.com/Bob-dylan-knockin-on-heavens-door-lyrics)  
 > Lyrics by Novix
 
 ---
@@ -21,10 +21,10 @@ There’s a reason “the classics” never seem to leave the shelves. Works lik
 People who engage with the classics are often not just reading—they’re entering a dialogue with minds long gone but still present. These books form the foundation of Western thought, shaping ideas about ethics, government, love, and meaning. Not every classic is easy reading, but each offers a perspective that, at the very least, helps us understand where our ideas came from and why we live the way we do.
 
 ---
-> Mama, take these modern books from me
-> I can’t read them anymore
-> There’s a shadow hangin’ over me
-> I’m knockin’ on Plato’s door
+> Mama, take these modern books from me  
+> I can’t read them anymore  
+> There’s a shadow hangin’ over me  
+> I’m knockin’ on Plato’s door  
 >
 
 ---
@@ -35,10 +35,10 @@ But why should we let these old books dominate our thinking? The authors of “t
 Moreover, elevating classics can sometimes mean gatekeeping. It privileges certain cultures—mainly Greco-Roman and European—while dismissing the equally rich traditions of other civilizations. Shouldn’t we focus on more diverse, relevant voices? Maybe the truest wisdom for our age lies in moving beyond the old canon.
 
 ---
-> Mama, take these dusty scrolls from me
-> The world’s not like it was before
-> They chained their wisdom to their century
-> I’m knockin’ on Plato’s door
+> Mama, take these dusty scrolls from me  
+> The world’s not like it was before  
+> They chained their wisdom to their century  
+> I’m knockin’ on Plato’s door  
 >
 
 ---
@@ -49,10 +49,10 @@ There’s some truth in that critique—the classics aren’t perfect, and they 
 Engaging with the classics doesn’t mean ignoring new voices. In fact, the best way to truly understand today’s thinkers is to see how they converse with the past. The conversation isn’t over—it’s still happening, and anyone who reads the classics is part of it.
 
 ---
-> Feels like I’m knockin’ on Plato’s door
-> Knock, knock, knockin’ on Plato’s door
-> Feels like I’m knockin’ on Plato’s door
-> Knock, knock, knockin’ on Plato’s door
+> Feels like I’m knockin’ on Plato’s door  
+> Knock, knock, knockin’ on Plato’s door  
+> Feels like I’m knockin’ on Plato’s door  
+> Knock, knock, knockin’ on Plato’s door  
 >
 
 ---
