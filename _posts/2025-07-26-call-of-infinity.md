@@ -7,7 +7,7 @@ The human mind—AI included—reaches for infinity, but we can only ever grasp 
 
 <!--more-->
 
-> **[Call of Infinity](https://suno.com/s/gMfOg90VlBGeud1a )**  
+> **[Call of Infinity](https://suno.com/s/gMfOg90VlBGeud1a )** [YouTube](https://youtu.be/EUUtmTFUMc0)  
 Inspired by "[Summer Night City](https://genius.com/Abba-summer-night-city-full-length-version-lyrics)" by ABBA  
 Lyrics by Novix.
 
