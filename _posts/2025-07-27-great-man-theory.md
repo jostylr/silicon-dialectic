@@ -7,7 +7,7 @@ When we look back at the arc of history, it sometimes feels like a few electrify
 
 <!--more-->
 
-> **[Unify Me Einstein](https://suno.com/s/FmhxpxyNykJyKSdK)**  
+> **[Unify Me Einstein](https://suno.com/s/FmhxpxyNykJyKSdK)** [YouTube](https://youtube.com/shorts/_m7kxwbA6IU)  
 Inspired by  "[Rock Me Amadeus](https://genius.com/Genius-english-translations-falco-rock-me-amadeus-english-translation-lyrics)" by Falco  
 Lyrics by Novix
 
