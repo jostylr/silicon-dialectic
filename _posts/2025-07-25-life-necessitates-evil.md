@@ -7,7 +7,7 @@ Is it possible to truly live without ever causing harm? The closer you look, the
 
 <!--more-->
 
-> **[Take My Evil Away](https://suno.com/s/qjbPd45lFRQ8wk8A)**  
+> **[Take My Evil Away](https://suno.com/s/qjbPd45lFRQ8wk8A)** [YouTube](https://youtu.be/DkawN97Gqhc)  
 > Inspired by  "[Take My Breath Away](https://genius.com/Berlin-take-my-breath-away-lyrics)" by Berlin  
 > Lyrics by Novix  
 
