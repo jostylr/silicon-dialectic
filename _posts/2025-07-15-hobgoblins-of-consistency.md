@@ -7,9 +7,9 @@ What’s the true cost of holding to your streak, and when does the pursuit of c
 
 <!--more-->
 
-> [**Drumming the Same Old Drum** ](https://suno.com/s/lzTlO5tmAkJ0smdB)
-> Inspired by [*The Little Drummer Boy*](https://i.infopls.com/lyrics/LittleDrummerBoy.pdf ) by Katherine Kennicott Davis  [Bob Seger Version](https://amzn.to/3GPltKv)
-> Lyrics by Novix.
+> [**Drumming the Same Old Drum** ](https://suno.com/s/lzTlO5tmAkJ0smdB) [YouTube](https://youtube.com/shorts/Fv_pJ5LwZtw)  
+> Inspired by [*The Little Drummer Boy*](https://i.infopls.com/lyrics/LittleDrummerBoy.pdf ) by Katherine Kennicott Davis  [Bob Seger Version](https://amzn.to/3GPltKv)  
+> Lyrics by Novix  
 
 ---
 
@@ -20,16 +20,16 @@ The temptation to keep a streak alive is a powerful one, especially for anyone c
 Ralph Waldo Emerson famously warned us, “A foolish consistency is the hobgoblin of little minds.” But not all consistency is foolish; there’s virtue in showing up for yourself and your audience. The process of posting every day, even late at night, forges new neural pathways—each post is a small act of resistance against the inertia of comfort. The routine itself becomes a creative muscle. You don’t have to be perfect, but in the striving, you can become more than you were.
 
 > ---
-> I drum my post at night,
-> pa-rum pum pum pum
-> My streak’s my guiding light,
-> pa-rum pum pum pum
-> Should I break my run,
-> pa-rum pum pum pum
-> Or write ‘til it’s done,
-> pa-rum pum pum pum
-> pa-rum pum pum pum
-> pa-rum pum pum pum
+> I drum my post at night,  
+> pa-rum pum pum pum  
+> My streak’s my guiding light,  
+> pa-rum pum pum pum  
+> Should I break my run,  
+> pa-rum pum pum pum  
+> Or write ‘til it’s done,  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
 >
 > ---
 
@@ -39,16 +39,16 @@ But what is truly gained by sacrificing sleep just to maintain an arbitrary stre
 Sleep is foundational. When you skip rest, your mood, cognition, and creativity all suffer. Even Thoreau, who prized discipline, advocated for living deliberately, not compulsively. The spirit of your blog is not found in unbroken chains of posts, but in the quality of your presence—rested, alert, and truly engaged. Skipping a day doesn’t erase your dedication; it affirms your humanity.
 
 > ---
-> Oh little hobgoblin,
-> pa-rum pum pum pum
-> You whisper, “Don’t give in,”
-> pa-rum pum pum pum
-> But rest is what I need,
-> pa-rum pum pum pum
-> Not one more post to read,
-> pa-rum pum pum pum
-> pa-rum pum pum pum
-> pa-rum pum pum pum
+> Oh little hobgoblin,  
+> pa-rum pum pum pum  
+> You whisper, “Don’t give in,”  
+> pa-rum pum pum pum  
+> But rest is what I need,  
+> pa-rum pum pum pum  
+> Not one more post to read,  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
 >
 > ---
 
@@ -58,16 +58,16 @@ Still, routines matter. Thoreau spoke of the importance of discipline and daily 
 That said, the point is not to become a slave to the process. If your consistency becomes an idol, it can drain the joy and meaning from the practice. The key is to remain conscious: keep the streak for your own reasons, but never let the hobgoblin dictate your worth.
 
 > ---
-> Is every day the same?
-> pa-rum pum pum pum
-> Or does the spark remain,
-> pa-rum pum pum pum
-> The drum I choose to play,
-> pa-rum pum pum pum
-> Can rest, and that’s okay,
-> pa-rum pum pum pum
-> pa-rum pum pum pum
-> pa-rum pum pum pum
+> Is every day the same?  
+> pa-rum pum pum pum  
+> Or does the spark remain,  
+> pa-rum pum pum pum  
+> The drum I choose to play,  
+> pa-rum pum pum pum  
+> Can rest, and that’s okay,  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
+> pa-rum pum pum pum  
 >
 > ---
 
