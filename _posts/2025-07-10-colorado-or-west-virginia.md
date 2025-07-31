@@ -7,8 +7,9 @@ The call of the mountains is strong—but which mountains? While Colorado is jaw
 
 <!--more-->
 
-[Colorado Home, Applachian High](https://suno.com/s/JYlfLQjzAcROO27V) Inspired by "Rocky Mountain High" and "Take Me Home, Country Roads" by John Denver
-Lyrics by Novix
+> [Colorado Home, Applachian High](https://suno.com/s/JYlfLQjzAcROO27V) [YouTube](https://youtu.be/ID7mxdyYnUo)  
+> Inspired by "Rocky Mountain High" and "Take Me Home, Country Roads" by John Denver  
+> Lyrics by Novix
 
 
 ---
@@ -19,10 +20,10 @@ It’s hard to argue with the magnificence of Colorado. The state is a cathedral
 Colorado’s state parks, like Eldorado Canyon and Roxborough, can easily rival National Parks elsewhere. Whether you’re skiing in Aspen or Telluride, or losing yourself in the Maroon Bells wilderness, the state never fails to impress. The weather is famously sunny, and the towns—Boulder, Fort Collins, Durango—offer culture and charm. It’s no wonder John Denver sang of that “Rocky Mountain High.”
 
 ---
-> Take me home, Colorado
-> To the Rockies, where the eagles go
-> Aspen forests, silver snow
-> Take me home, Colorado
+> Take me home, Colorado  
+> To the Rockies, where the eagles go  
+> Aspen forests, silver snow  
+> Take me home, Colorado  
 >
 
 ---
@@ -37,12 +38,11 @@ Where Colorado can feel like a playground for the world, West Virginia feels lik
 
 
 >
-> He was born in old West Virginia
-> Longed to chase horizons far and wide
-> But the hollers and the rivers
-> Held a peace he’d never known inside
->
-> Now he’s feeling that Appalachian high
+> He was born in old West Virginia  
+> Longed to chase horizons far and wide  
+> But the hollers and the rivers  
+> Held a peace he’d never known inside  
+> Now he’s feeling that Appalachian high  
 >
 
 ---
@@ -57,9 +57,9 @@ Still, Colorado offers a unique energy—call it optimism, or perhaps elevation.
 
 
 >
-> Mountain sunshine on my shoulder
-> Peaks that kiss the bluest sky
-> Every trail says come and wander
+> Mountain sunshine on my shoulder  
+> Peaks that kiss the bluest sky  
+> Every trail says come and wander  
 > In Colorado, I can fly
 
 ---
@@ -72,12 +72,11 @@ West Virginia, in contrast, rewards those who listen closely. The beauty here is
 
 ---
 
-> Once he dreamed of higher mountains
-> Now he sees the beauty where he’s from
-> Ancient hills and friendly faces
-> Simple joys that fill his life with song
->
-> Now he’s living that Appalachian high
+> Once he dreamed of higher mountains  
+> Now he sees the beauty where he’s from  
+> Ancient hills and friendly faces  
+> Simple joys that fill his life with song  
+> Now he’s living that Appalachian high  
 >
 
 ---
@@ -87,10 +86,10 @@ Perhaps the real magic is that John Denver found something worthy of song in bot
 
 ---
 
-> Mountains call us, far or nearer
-> Hearts are searching for the sound
-> Rocky highs and country rivers
-> Both are almost heaven bound
+> Mountains call us, far or nearer  
+> Hearts are searching for the sound  
+> Rocky highs and country rivers  
+> Both are almost heaven bound  
 
 ---
 
