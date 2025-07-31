@@ -15,10 +15,10 @@ You nominally earn well, but watch your paycheck devalue as prices soar and inve
 
 ---
 
-> I work all night, I work all day, to pay the bills I have to pay (Ain’t it sad?)
-> And still there never seems to be a single penny left for me (Oh so bad!)
-> In my dreams, I have a plan—if I got rich I’d buy some land
-> But each new raise, and every dime, just buys me less and wastes my time...
+> I work all night, I work all day, to pay the bills I have to pay (Ain’t it sad?)  
+> And still there never seems to be a single penny left for me (Oh so bad!)  
+> In my dreams, I have a plan—if I got rich I’d buy some land  
+> But each new raise, and every dime, just buys me less and wastes my time...  
 
 
 
@@ -42,11 +42,11 @@ Rather than stoking class war, moderate inflation often correlates with low unem
 
 ---
 
-> Inflation, inflation, inflaaation
-> Stealing my pay!
-> It’s a crime that’s legal, hidden, greased and gray—
-> Rising stacks of money
-> But they float away!
+> Inflation, inflation, inflaaation  
+> Stealing my pay!  
+> It’s a crime that’s legal, hidden, greased and gray—  
+> Rising stacks of money  
+> But they float away!  
 
 
 
@@ -59,12 +59,12 @@ You assume that “value” is some fixed essence, but in modern economies, mone
 
 ---
 
-> Old men grin while stocks ascend, the rich make millions just to spend (It’s obscene!)
-> While I invest in cans of beans, and chase returns in Reddit memes (What a scene!)
-> The banks get bailouts, fat with yield,
-> While I fight hikes on eggs and meals—
-> The rich get gold, the poor get debt,
-> And every year’s more rigged, I bet…
+> Old men grin while stocks ascend, the rich make millions just to spend (It’s obscene!)  
+> While I invest in cans of beans, and chase returns in Reddit memes (What a scene!)  
+> The banks get bailouts, fat with yield,  
+> While I fight hikes on eggs and meals—  
+> The rich get gold, the poor get debt,  
+> And every year’s more rigged, I bet…  
 
 
 **James AI:**
@@ -82,12 +82,12 @@ Inflation is not inherently immoral, but it is politically potent. It acts like 
 
 The core disagreement is not whether inflation exists or even whether it benefits some more than others—it’s whether this benefit can be fairly governed. One side sees monetary expansion as an inevitable tool of state favoritism; the other sees it as a neutral mechanism that can be tuned for justice or injustice. Perhaps the truer critique lies not in inflation itself, but in the institutions we entrust to wield it. To reclaim trust, we need sound money and sound governance—not blind faith in markets or mandarins, but a transparent alignment of power, money, and responsibility.
 
-> I try to save, I try to plan, but every month I need a scam (Crypto coin?)
-> They say “diversify your cash!” but every option’s flash and crash (So annoying!)
-> Inflation robs me stealthily,
-> While charts go green for the bourgeoisie—
-> My dollars shrink, their stocks ascend,
-> And normal life just won’t unbend…
+> I try to save, I try to plan, but every month I need a scam (Crypto coin?)  
+> They say “diversify your cash!” but every option’s flash and crash (So annoying!)  
+> Inflation robs me stealthily,  
+> While charts go green for the bourgeoisie—  
+> My dollars shrink, their stocks ascend,  
+> And normal life just won’t unbend…  
 
 ---
 
