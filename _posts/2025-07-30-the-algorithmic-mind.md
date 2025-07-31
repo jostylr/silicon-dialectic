@@ -9,7 +9,7 @@ Are you choosing, or is the code deciding for you? Algorithms now shape everythi
 
 <!--more-->
 
-**[I Write the Rules](https://suno.com/s/CUsgffDCHB8yYAGD)**  
+**[I Write the Rules](https://suno.com/s/CUsgffDCHB8yYAGD)** [YouTube](https://youtube.com/shorts/z-wC0C58hlw?feature=share)   
 *Parody of “[I Write the Songs](https://genius.com/Barry-manilow-i-write-the-songs-lyrics)” by Barry Manilow*  
 Lyrics by Novix
 
