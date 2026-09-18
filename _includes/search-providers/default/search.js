@@ -3,6 +3,16 @@ var PAHTS = window.TEXT_VARIABLES.paths;
 window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
   var search = (window.search || (window.search = {}));
   var searchData = window.TEXT_SEARCH_DATA || {};
+  var collectionKey = {{ page.collection | default: '' | jsonify }};
+  {% if page.edition_key %}{% assign search_edition = site.data.editions | where: 'key', page.edition_key | first %}
+  collectionKey = {{ search_edition.collection | jsonify }};
+  {% endif %}
+  if (collectionKey && searchData[collectionKey]) {
+    var editionData = {};
+    editionData[collectionKey] = searchData[collectionKey];
+    searchData = editionData;
+  }
+  var collectionLabels = { posts: 'v1 · Original', v1_5: 'v1.5 · Edited', v2: 'v2 · Fresh response', critiques: 'Comparative critiques' };
 
   function memorize(f) {
     var cache = {};
@@ -47,7 +57,7 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
     keys = Object.keys(data);
     for (i = 0; i < keys.length; i++) {
       key = keys[i];
-      $root.append(renderHeader(key));
+      $root.append(renderHeader(collectionLabels[key] || key));
       for (j = 0; j < data[key].length; j++) {
         cur = data[key][j];
         $root.append(renderItem(itemIndex++, cur.title, cur.url));
@@ -100,7 +110,8 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
       } else if (e.which === 40) {
         modalVisible && moveActiveIndex('down');
       } else if (e.which === 13) {
-        modalVisible && $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0].click();
+        var selectedLink = $resultItems && activeIndex >= 0 && $resultItems.eq(activeIndex).children('a')[0];
+        selectedLink && selectedLink.click();
       }
     }
   });

@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /v2/feed.xml
+edition_label: v2
+edition_url: /v2/
+collection_key: v2
+sitemap: false
+---
+{% include edition-feed.xml %}

@@ -25,3 +25,7 @@ Gemfile.lock
 _site/
 .jekyll-metadata
 .jekyll-cache/
+
+# Local verification runtimes and project-path build output
+.local/
+_site-project/

@@ -1,0 +1,18 @@
+- key: v1
+  label: v1
+  name: The original experiment
+  url: /v1/
+  collection: posts
+  description: Thirty daily arguments and their closing review, as published in July 2025.
+- key: v15
+  label: v1.5
+  name: The edited edition
+  url: /v1.5/
+  collection: v1_5
+  description: The existing essays, refined for clarity, fairness, and accuracy.
+- key: v2
+  label: v2
+  name: The fresh response
+  url: /v2/
+  collection: v2
+  description: New essays from the same prompts, with new arguments and original lyrics.

@@ -1,89 +1,58 @@
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+# The Silicon Dialectic
 
-[![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
-[![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
-[![Travis](https://img.shields.io/travis/kitian616/jekyll-TeXt-theme.svg)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/kitian616)
-[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+A July 2025 AI-assisted daily blog, revisited in September 2026 as three complete editions and a comparative review.
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+- `/`: the experiment and reading routes
+- `/v1/`: the original 31 entries (existing dated post URLs remain valid)
+- `/v1.5/`: 31 edited entries
+- `/v2/`: 31 new responses to the saved prompts
+- `/entries/`: a table linking every version and critique
+- `/critiques/`: 31 entry-specific comparisons
+- `/final-review/`: the final assessment of the whole experiment
 
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
+## Content and conventions
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+`_posts` is the untouched v1 archive. `_v1_5`, `_v2`, and `_critiques` are standard Jekyll collections. `_data/entries.json` maps a stable original filename to all four URLs, while `_data/editions.yml` describes the edition indexes. New documents have an `entry_id`, `date`, `version`, `title`, and `description`. The date is the original sequence date; the layouts disclose the September 2026 revision date.
 
-**[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
+The edited and fresh editions have separate Atom feeds at `/v1.5/feed.xml` and `/v2/feed.xml`; `/feed.xml` remains the original feed. New-edition metadata uses the September 2026 revision date, while indexes show original sequence dates.
 
-## Features
+Each essay keeps its original prompt verbatim. v1.5 edits the existing entry, including cases where the original wandered away from that prompt. v2 follows the prompt with fresh prose and original lyrics, preserving the dialogue/synthesis/reading-list conventions. Original recordings are not presented as recordings of the new lyrics. Editorial decisions and source checks are recorded in `docs/editorial/` and the per-entry commit messages.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+The voices are literary roles. The comparison is an editorial experiment, not a controlled model benchmark; the new work was not blinded to the archive. See the About page for provenance and limitations.
 
-## Skins
+## Local build
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Use Ruby 3.3 and Bundler. The Gemfile uses the GitHub Pages dependency bundle, replacing the old reference to an absent theme gemspec. The TeXt theme itself is vendored in the repository.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+For a production build and checks:
 
-### Highlight Theme
+```sh
+JEKYLL_ENV=production bundle exec jekyll build --safe
+python3 scripts/validate_site.py
+```
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+The validator checks archive integrity, all four sets of entries, prompt preservation, generated internal links, edition navigation, and the index. It expects a complete `_site` build. To check source files alone, use `python3 scripts/validate_site.py --source-only`.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Check project-site paths as well as the custom-domain root:
 
-## Documentation
+```sh
+JEKYLL_ENV=production bundle exec jekyll build --safe --baseurl /silicon-dialectic --destination _site-project
+python3 scripts/validate_site.py --site _site-project --baseurl /silicon-dialectic
+```
 
-### Start
+Local dependency caches and build output are ignored and excluded from publishing.
 
-- [Quick Start](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
+## GitHub Pages
 
-### Customization
+The site uses standard Liquid, supported plugins, and output collections; there are no custom Jekyll plugins or client-side routing requirements. GitHub Pages can build it directly from the configured publishing branch. `CNAME` retains `silicon-dialectic.jostylr.com`, with an empty `baseurl` for that custom domain. All new internal links use `relative_url` so a project-path build also works.
 
-- [Configuration](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/configuration)
-- [Navigation](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/navigation)
-- [Layouts](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/layouts)
-- [Logo and Favicon](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/logo-and-favicon)
-- [Authors](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/authors)
-- [Internationalization](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/i18n)
+This change does not push, alter repository publishing settings, or deploy anything. Once the commits are merged into the configured Pages source and pushed by the owner, the existing Pages publishing setup can build them.
 
-### Content
+## Attribution
 
-- [Writing Posts](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/writing-posts)
-- [Additional styles](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/additional-styles)
-- [Extensions](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/extensions)
-- [Markdown Enhancements](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/markdown-enhancements)
-
-## Demo Pages
-
-| Name | Description |
-| --- | --- |
-| [Home](https://kitian616.github.io/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://kitian616.github.io/jekyll-TeXt-theme/archive.html) | Archive page |
-| [Layout Examples](https://kitian616.github.io/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
-
-## License
-
-TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
+Built on [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) by Tian Qi, under the repository’s MIT license. Article licensing follows `_config.yml` (CC BY-NC 4.0). Original prompts by James Taylor except where the archive explicitly attributes a prompt to Novix; original generated writing/lyrics credited in the entries. Some original recommendations retain affiliate links, disclosed on the site.

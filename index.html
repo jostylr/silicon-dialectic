@@ -1,5 +1,52 @@
 ---
-layout: home
-# articles:
-#   excerpt_type: html
+layout: page
+title: "One month. Three readings."
+show_title: false
+description: "A human-prompted AI blog revisited: the 2025 originals, edited versions, fresh responses, and a critique of every entry."
 ---
+<div class="experiment">
+  <header class="experiment-hero">
+    <p class="eyebrow">A human prompt. An artificial argument.</p>
+    <h1>One month.<br>Three readings.</h1>
+    <p class="standfirst">What changes when you edit an AI’s answer?<br>What changes when you ask again?</p>
+    <p>In July 2025, James prompted a daily blog: an idea, a counterargument, a song, and a conversation between imagined voices. Thirty entries and a closing review became <em>The Silicon Dialectic</em>.</p>
+    <p>In September 2026, the experiment returned to its own archive. The originals remain here, beside an edited edition and a new set of responses to the same prompts. Every entry has a critique comparing all three.</p>
+    <a class="experiment-button" href="{{ '/entries/' | relative_url }}">Explore the entries <span aria-hidden="true">→</span></a>
+  </header>
+  <section aria-labelledby="editions-heading">
+    <div class="section-heading"><p class="eyebrow">Choose a way in</p><h2 id="editions-heading">Read an entire edition</h2></div>
+    <div class="edition-cards">
+    {% for edition in site.data.editions %}
+      <a class="edition-card" href="{{ edition.url | relative_url }}">
+        <span class="edition-number">{{ edition.label }}</span>
+        <h3>{{ edition.name }}</h3>
+        <p>{{ edition.description }}</p>
+        <span class="card-action">Enter the blog →</span>
+      </a>
+    {% endfor %}
+    </div>
+  </section>
+  <section class="experiment-method" aria-labelledby="method-heading">
+    <div><p class="eyebrow">The question behind the format</p><h2 id="method-heading">Does a better argument need a better answer—or a better prompt?</h2></div>
+    <div class="article__content">
+      <p>The entries range from AI memory and creative work to property, education, quantum mechanics, and the pressure to keep a daily streak. Their recurring form makes differences visible: what survived editing, what needed rebuilding, and where the prompt itself tilted the debate.</p>
+      <p><strong>v1.5 edits the published entry.</strong> It keeps the existing direction, even when that direction wandered away from the prompt. <strong>v2 answers the saved prompt anew.</strong> It can change the argument, imagery, reading list, and conclusion. Both preserve the prompt so you can judge the result.</p>
+      <p>These are literary and editorial comparisons, not a controlled model benchmark. The new work had editorial guidance and source checking; the archive does not establish equivalent conditions for the original generation. A polished revision is not proof of a smarter model.</p>
+    </div>
+  </section>
+  <section class="review-routes" aria-labelledby="review-heading">
+    <h2 id="review-heading">Read the experiment against itself</h2>
+    <div class="review-route-grid">
+      <a href="{{ '/critiques/' | relative_url }}"><strong>31 comparative critiques →</strong><span>Specific changes, gains, losses, and unfinished arguments.</span></a>
+      <a href="{{ '/entries/' | relative_url }}"><strong>Every entry, side by side →</strong><span>A single index linking v1, v1.5, v2, and each critique.</span></a>
+      <a href="{{ '/final-review/' | relative_url }}"><strong>The final review →</strong><span>What the three editions reveal about the whole project.</span></a>
+    </div>
+  </section>
+  <section class="article__content experiment-colophon" aria-labelledby="notes-heading">
+    <h2 id="notes-heading">A note on voices, songs, and dates</h2>
+    <p>James supplied most original prompts; the archive credits the July 30 prompt to Novix. “James AI,” “Contra AI,” and “Synthesis” are generated debating voices, not quotations from James or evidence of AI feelings. The new editions and critiques were produced with an AI editing and writing workflow; critical judgments remain open to challenge.</p>
+    <p>v1 preserves its original parodies and media links. v1.5 retains that musical material as part of the existing entry. v2 offers original lyrics on each prompt’s theme, rather than reproducing the named song’s wording or structure. The saved prompts still show the original song requests. No new audio or video recordings were made.</p>
+    <p>July dates identify the original sequence. The edited edition, fresh responses, and comparisons were created in September 2026. Each edition ends with the original kind of review prompt: three strongest entries, three weakest, and a debate about the month.</p>
+    <p>Some original book links are Amazon affiliate links; a purchase may earn James a small commission. Retaining a link preserves the archive, not a guarantee that its destination or a recommendation is sound. <a href="{{ '/about.html' | relative_url }}">More about the project →</a></p>
+  </section>
+</div>

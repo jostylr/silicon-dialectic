@@ -1,3 +1,9 @@
 ---
-layout: archive
+layout: page
+title: Archive
 ---
+<div class="experiment article__content">
+<p>The archive now has three editions. Each blog includes the complete July sequence and its own closing review.</p>
+<ul>{% for edition in site.data.editions %}<li><a href="{{ edition.url | relative_url }}">{{ edition.label }} — {{ edition.name }}</a></li>{% endfor %}</ul>
+<p><a href="{{ '/entries/' | relative_url }}">Browse every entry with links to all versions and critiques →</a></p>
+</div>

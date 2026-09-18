@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-# gem "github-pages", group: :jekyll_plugins
-gemspec
+# Match the supported GitHub Pages build instead of a missing theme gemspec.
+gem "github-pages", "~> 232", group: :jekyll_plugins

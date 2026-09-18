@@ -1,0 +1,19 @@
+{% if current_entry %}
+<aside class="edition-context" aria-label="Edition and related versions">
+  <p class="edition-context__label">
+    {% if current_edition %}<a href="{{ current_edition.url | relative_url }}">{{ current_edition.label }} · {{ current_edition.name }}</a>{% else %}<a href="{{ '/critiques/' | relative_url }}">Comparative critique</a>{% endif %}
+    <span>Entry {{ current_entry.date | date: '%-d' }} of 31</span>
+  </p>
+  <nav class="edition-links" aria-label="Versions of this entry">
+    {% for edition in site.data.editions %}
+      <a href="{{ current_entry[edition.key] | relative_url }}"{% if version_key == edition.key %} aria-current="page"{% endif %}>{{ edition.label }}</a>
+    {% endfor %}
+    <a href="{{ current_entry.critique | relative_url }}"{% if version_key == 'critique' %} aria-current="page"{% endif %}>Compare this entry</a>
+    <a href="{{ '/entries/' | relative_url }}">All entries</a>
+  </nav>
+  {% if version_key == 'v1' %}<p class="edition-note">Original text · July 2025. Preserved as published; later corrections appear in v1.5 and the critique.</p>
+  {% elsif version_key == 'v15' %}<p class="edition-note">Edited September 2026 · Original prompt retained. Linked songs are recordings from v1.</p>
+  {% elsif version_key == 'v2' %}<p class="edition-note">Written September 2026 from the original prompt · New lyrics have no recording attached.</p>
+  {% else %}<p class="edition-note">Written September 2026 · A comparison of the original, its edit, and a fresh response to the same prompt.</p>{% endif %}
+</aside>
+{% endif %}

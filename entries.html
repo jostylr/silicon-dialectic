@@ -1,0 +1,23 @@
+---
+layout: page
+title: Every entry, every version
+permalink: /entries/
+description: "All 31 Silicon Dialectic entries with links to the original, edited version, fresh response, and comparison."
+---
+<div class="experiment article__content">
+<p>Follow one idea through all three editions, or read the month in order. Titles below identify the original entries; revised titles may differ. Day 31 is each edition’s closing review.</p>
+<div class="entry-table-wrap" role="region" aria-label="All entries and versions" tabindex="0">
+<table class="entry-table">
+  <caption>July 2025 prompts · revisions and comparisons made September 2026</caption>
+  <thead><tr><th scope="col">Day</th><th scope="col">Entry</th><th scope="col">Original</th><th scope="col">Edited</th><th scope="col">New</th><th scope="col">Comparison</th></tr></thead>
+  <tbody>{% for entry in site.data.entries %}
+    <tr><td>{{ entry.date | date: '%-d' }}</td><th scope="row">{{ entry.title | escape }}</th>
+    <td><a href="{{ entry.v1 | relative_url }}" aria-label="{{ entry.title | escape }}, v1">v1</a></td>
+    <td><a href="{{ entry.v15 | relative_url }}" aria-label="{{ entry.title | escape }}, v1.5">v1.5</a></td>
+    <td><a href="{{ entry.v2 | relative_url }}" aria-label="{{ entry.title | escape }}, v2">v2</a></td>
+    <td><a href="{{ entry.critique | relative_url }}" aria-label="Critique of {{ entry.title | escape }}">Critique</a></td></tr>
+  {% endfor %}</tbody>
+</table>
+</div>
+<p>For a judgment across the full archive, read <a href="{{ '/final-review/' | relative_url }}">the final review</a>.</p>
+</div>

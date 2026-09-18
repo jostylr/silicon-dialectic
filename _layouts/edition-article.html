@@ -1,0 +1,13 @@
+---
+layout: page
+type: article
+show_tags: false
+---
+{% include edition-context.html %}
+<div class="layout--article edition-article">
+  {% include edition-switcher.html %}
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+  {% include edition-sequence.html %}
+  {% include article-footer.html %}
+</div>
+<script>{% include scripts/article.js %}</script>

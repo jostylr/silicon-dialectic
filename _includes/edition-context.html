@@ -1,0 +1,12 @@
+{%- assign entry_id = page.entry_id -%}
+{%- if page.collection == 'posts' -%}
+  {%- assign entry_id = page.path | split: '/' | last | remove: '.md' -%}
+{%- endif -%}
+{%- assign current_entry = site.data.entries | where: 'id', entry_id | first -%}
+{%- assign version_key = 'v1' -%}
+{%- case page.version -%}
+  {%- when 'v1.5' -%}{%- assign version_key = 'v15' -%}
+  {%- when 'v2' -%}{%- assign version_key = 'v2' -%}
+  {%- when 'critique' -%}{%- assign version_key = 'critique' -%}
+{%- endcase -%}
+{%- assign current_edition = site.data.editions | where: 'key', version_key | first -%}

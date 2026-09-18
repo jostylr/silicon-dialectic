@@ -1,0 +1,13 @@
+---
+layout: page
+title: The comparative critiques
+permalink: /critiques/
+description: "One critique per entry, comparing the original essay, the edited version, and the fresh response."
+---
+<div class="experiment article__content">
+<p>Editing and rewriting solve different problems. These critiques ask what each original achieved, what its edit repaired, what the fresh response changed, and what still deserves resistance. The newest version does not automatically win.</p>
+<p><a href="{{ '/final-review/' | relative_url }}">Read the final review of the whole experiment →</a></p>
+<ol class="critique-list">{% for entry in site.data.entries %}
+<li><a href="{{ entry.critique | relative_url }}">{{ entry.title | escape }}</a>{% assign critique = site.critiques | where: 'entry_id', entry.id | first %}{% if critique.description %}<p>{{ critique.description }}</p>{% endif %}</li>
+{% endfor %}</ol>
+</div>

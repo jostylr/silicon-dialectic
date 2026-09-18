@@ -1,0 +1,14 @@
+{% if current_entry %}
+{% assign previous_entry = nil %}{% assign next_entry = nil %}
+{% for entry in site.data.entries %}
+  {% if entry.id == current_entry.id %}
+    {% unless forloop.first %}{% assign previous_index = forloop.index0 | minus: 1 %}{% assign previous_entry = site.data.entries[previous_index] %}{% endunless %}
+    {% unless forloop.last %}{% assign next_index = forloop.index0 | plus: 1 %}{% assign next_entry = site.data.entries[next_index] %}{% endunless %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+<nav class="edition-sequence" aria-label="Read this edition in order">
+  {% if previous_entry %}<a rel="prev" href="{{ previous_entry[version_key] | relative_url }}"><span>Previous{% if current_edition %} in {{ current_edition.label }}{% endif %}</span>{{ previous_entry.title | escape }}</a>{% endif %}
+  {% if next_entry %}<a rel="next" href="{{ next_entry[version_key] | relative_url }}"><span>Next{% if current_edition %} in {{ current_edition.label }}{% endif %}</span>{{ next_entry.title | escape }}</a>{% endif %}
+</nav>
+{% endif %}

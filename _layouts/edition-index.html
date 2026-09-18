@@ -1,0 +1,33 @@
+---
+layout: page
+show_title: false
+---
+{% assign edition = site.data.editions | where: 'key', page.edition_key | first %}
+{% assign edition_posts = site[edition.collection] | sort: 'date' | reverse %}
+<div class="experiment edition-index">
+  <header class="edition-masthead">
+    <p class="eyebrow">The Silicon Dialectic · {{ edition.label }}</p>
+    <h1>{{ edition.name }}</h1>
+    <p class="standfirst">{{ edition.description }}</p>
+    <div class="article__content">{{ content }}</div>
+    <nav class="edition-links" aria-label="Browse editions">
+      {% for other in site.data.editions %}<a href="{{ other.url | relative_url }}"{% if other.key == edition.key %} aria-current="page"{% endif %}>{{ other.label }}</a>{% endfor %}
+      <a href="{{ '/entries/' | relative_url }}">Compare all entries</a>
+      {% if edition.key == 'v1' %}{% assign edition_feed = '/feed.xml' %}{% else %}{% assign edition_feed = edition.url | append: 'feed.xml' %}{% endif %}
+      <a href="{{ edition_feed | relative_url }}">Subscribe to {{ edition.label }}</a>
+    </nav>
+    {% assign first_entry = site.data.entries | first %}
+    {% assign last_entry = site.data.entries | last %}
+    <p class="reading-routes"><a href="{{ first_entry[edition.key] | relative_url }}">Start on day one →</a> <a href="{{ last_entry[edition.key] | relative_url }}">Read this edition’s closing review →</a></p>
+  </header>
+  <div class="edition-posts">
+  {% for post in edition_posts %}
+    <article class="edition-post">
+      <p class="eyebrow"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time>{% if forloop.first %} · Closing review{% endif %}</p>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+      <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 320 }}</p>
+      <a class="read-entry" href="{{ post.url | relative_url }}">Read entry <span class="visually-hidden">{{ post.title | escape }}</span> →</a>
+    </article>
+  {% endfor %}
+  </div>
+</div>
