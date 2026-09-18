@@ -1,0 +1,177 @@
+{
+  "2025-07-11-the-practical-plan": {
+    "v15": [
+      "Preserve the original windmill image, song, recordings, and verbatim human prompt while identifying the original song/prompt mismatch explicitly.",
+      "Replace unsupported claims about history and inevitable small-step progress with a distinction between activity, learning, and progress toward a goal.",
+      "Give Contra a substantive case about unforeseen information and opportunity costs instead of romanticizing sacrifice or ignoring consequences.",
+      "Make the synthesis actionable through a next experiment, review point, and permission to change direction rather than generic encouragement."
+    ],
+    "v2": [
+      "Build a fresh career-change scenario in which planning coordinates money, time, and other people rather than predicting an entire life.",
+      "Distinguish obligations, hypotheses, and experiments, then challenge the assumption that every encounter must become useful research.",
+      "Write original Room for the Turn lyrics and provide checked planning, Stoic, and serendipity reading paths."
+    ],
+    "critique": [
+      "Identify the original prompt/body mismatch as more consequential than sentence polish.",
+      "Prefer v2 for prompt fidelity while crediting v1’s windmill image and noting v2’s bias toward manageable experiments."
+    ]
+  },
+  "2025-07-12-the-classics": {
+    "v15": [
+      "Retain the invitation to read classics, original song, and verbatim prompt while reducing claims of timeless or universal authority.",
+      "Correct the blanket portrayal of Stoicism as acceptance of injustice and distinguish influence in European thought from all human wisdom.",
+      "Strengthen Contra through preservation, translation, selection, and the opportunity cost of finite reading time.",
+      "Recommend paired critical reading and contextual questions, and revise book descriptions to invite disagreement instead of reverence."
+    ],
+    "v2": [
+      "Use an invitation-to-the-table metaphor to distinguish a book’s survival from the truth of its claims.",
+      "Develop translation, authorial position, and reading-list selection as actual obstacles to critical reading.",
+      "Give beginners a question-led reading procedure and original The Chair Across the Table lyrics."
+    ],
+    "critique": [
+      "Credit v1’s accessible invitation and existing inclusion of Confucius while identifying its weak Stoic opponent.",
+      "Recognize v2’s practical reading method but note that it performs no close reading and retains a largely familiar canon."
+    ]
+  },
+  "2025-07-13-needing-a-break": {
+    "v15": [
+      "Keep the home/travel dialogue and original song while removing claims that travel almost always transforms or home time is dead time.",
+      "Treat boredom as an uncertain opportunity for reflection rather than a guaranteed source of productive creativity.",
+      "Recognize that home can contain duties and stress, making travel a genuine boundary rather than a superficial consumer choice.",
+      "Allow rest, relationships, and ordinary pleasures to matter without output, and clarify Jenny Odell’s broader attention argument."
+    ],
+    "v2": [
+      "Begin with two failed holidays and ask what demand a break must interrupt rather than which location is superior.",
+      "Distinguish organized travel from performative travel, and reject productivity or memory as the sole measure of leisure.",
+      "Add agreements among companions, boundaries around work and care, and original An Unclaimed Afternoon lyrics."
+    ],
+    "critique": [
+      "Trace the change in the essay’s judge from productivity and memory to the person’s actual needs.",
+      "Prefer v2’s concrete arrangements while noting that optimizing rest can itself create another planning burden."
+    ]
+  },
+  "2025-07-14-deep-end-living": {
+    "v15": [
+      "Explicitly limit the deep-end image to metaphor and remove the implied endorsement of throwing an unprepared child into water.",
+      "Replace unsupported decline narratives about community and danger with task-specific assessment of resources and reversible consequences.",
+      "Make the opposing case depend on the actual child and support available, and treat asking for help as competence.",
+      "Support the limited relationship/resilience claim with AAP guidance and avoid treating distress as evidence of learning.",
+      "Correct Antifragile’s title and annotate its limits as a parenting analogy; add missing recommendation authors."
+    ],
+    "v2": [
+      "Develop a teenager-led neighborhood event to make adult boundaries, spending limits, permissions, and genuine choice concrete.",
+      "Challenge adult control disguised as leading questions and consider how learners judge AI-generated output.",
+      "Include adult responsibility during the review, original Within Calling Distance lyrics, and Gopnik’s alternative to predetermined child outcomes."
+    ],
+    "critique": [
+      "Explain why the original metaphor and social-decline rhetoric needed substantive repair.",
+      "Prefer v2’s concrete supported-responsibility example while acknowledging unequal access to helpful adults and community."
+    ]
+  },
+  "2025-07-15-hobgoblins-of-consistency": {
+    "v15": [
+      "Remove the unsupported claim that each daily post forges new neural pathways and preserve the ordinary benefit of repeated practice.",
+      "Explain Emerson’s narrower concern about fidelity to prior statements and avoid making Thoreau endorse daily publishing.",
+      "Limit sleep-health claims and link NHLBI guidance instead of treating one late evening as a medical conclusion.",
+      "Reject automatic praise for either keeping or breaking a streak; distinguish daily writing from daily publication and propose an earlier cutoff."
+    ],
+    "v2": [
+      "Make the calendar’s measurement problem central by distinguishing a useful short post from a token that only preserves a count.",
+      "Give the streak a fair defense as reduced daily negotiation and a public commitment, then examine costs shifted into tomorrow.",
+      "Separate a bounded month-long experiment from sustainable publication and add original The Empty Square lyrics."
+    ],
+    "critique": [
+      "Identify misplaced scientific and philosophical authority in v1 and the precision restored by v1.5.",
+      "Credit v1.5’s balance of charm and repair while noting that v2’s fuller framework can overmanage a small creative practice."
+    ]
+  },
+  "2025-07-16-webs-dead-baby": {
+    "v15": [
+      "Retain the personal-web nostalgia and original song while replacing the universal lifecycle/death story with claims about visible commercial styles.",
+      "Distinguish accessibility from polished appearance using W3C design guidance and acknowledge access barriers in the remembered early web.",
+      "Allow templates and AI to support experimentation as well as sameness, making unexamined defaults the target.",
+      "Remove unsupported claims about declining direct visits and focus on lost context, author control, and useful conventions.",
+      "Add missing authors to the existing design recommendations."
+    ],
+    "v2": [
+      "Contrast two visually identical pages with different degrees of particular attention to separate authorship from ornament.",
+      "Use a handle-and-room metaphor to combine recognizable controls with distinctive organization and layered depth.",
+      "Bring archives, correction, portability, and maintenance costs into the meaning of a personal site, with original A Door With My Name lyrics."
+    ],
+    "critique": [
+      "Challenge v1’s tidy history and unsupported equation of clean design with accessibility.",
+      "Prefer v2’s usable account of authorship while noting limited attention to economic incentives and the still-missing commercialization-of-art reading."
+    ]
+  },
+  "2025-07-17-midummer-doubts": {
+    "v15": [
+      "Preserve the seasonal arc and lyrics while replacing the physics metaphor and guilt-equals-care assertion with a mismatch of plans and capacity.",
+      "Separate fast AI drafts from the judgment, integration, and maintenance required for finished work.",
+      "Make small actions reveal something about an important project rather than treating arbitrary activity as progress.",
+      "Avoid diagnosing depression or burnout from stalled projects and define a recognizable finish or deliberate stopping point.",
+      "Transparently replace the original authorless, unidentified Summer Projects for the Whole Family recommendation with verified Four Thousand Weeks."
+    ],
+    "v2": [
+      "Show how individually plausible projects compete for the same limited time through a one-table summer image.",
+      "Distinguish exploration from delivery and prototypes from dependable tools while keeping review from becoming another project.",
+      "Make stopping concrete through saved notes, communication, released time, and put-away materials; add original One Table in the Shade lyrics."
+    ],
+    "critique": [
+      "Explain the original’s weak explanations and recommendation anomaly without claiming the unidentified book cannot exist.",
+      "Prefer v2 for practical discrimination while preserving v1.5 as the more concise reassurance and noting the managerial risk."
+    ]
+  },
+  "2025-07-18-always-go-north": {
+    "v15": [
+      "Preserve the original route preference and song while explicitly framing the opening maxim as a traveler’s fond rule rather than geography.",
+      "Replace universal North/East wisdom and South/West vitality claims with particular preferences and starting points.",
+      "Remove the unsupported botanical claim, avoid treating the West as historically empty, and let places exceed the traveler’s symbols.",
+      "Correct the media-label typo and qualify the recommendation’s uncritical father-of-the-parks description of John Muir."
+    ],
+    "v2": [
+      "Make preference versus theorem central and distinguish choosing through taste from making a place perform that taste.",
+      "Use residents, change, and practical travel conditions to test the metaphor, with a limited NOAA-backed correction about magnetic direction.",
+      "Write original A Preference for Pines lyrics and add a checked book about Earth’s magnetic field."
+    ],
+    "critique": [
+      "Credit v1’s strongest atmosphere and explicitly acknowledge that accurate editing can reduce a light entry’s buoyancy.",
+      "Prefer v2 as a self-contained essay while noting its lack of an actual encounter that changes the traveler’s mind."
+    ]
+  },
+  "2025-07-19-my-property": {
+    "v15": [
+      "Restore Locke’s spoilage and enough-for-others conditions and distinguish a moral appropriation argument from actual legal title.",
+      "Separate ownership incentives, stewardship, autonomy, and justice rather than making each prove the others.",
+      "Replace an overbroad dispossession story and distinguish Rousseau, Proudhon, and Marx rather than treating them as a single view.",
+      "Show that socially maintained institutions can protect principled rights and constrain arbitrary change.",
+      "Ground the commons alternative in Ostrom’s primary lecture and clarify the Manifesto’s focus on bourgeois productive property."
+    ],
+    "v2": [
+      "Develop a fence and orchard case to expose the gap between labor and unlimited exclusion, including paths, harvests, and water.",
+      "Withdraw the convenient assumption of uncontested land so prior uses must enter the argument.",
+      "Require procedures and accountability for both private and collective power, with original The Gate and the Key lyrics and multiple theoretical reading paths."
+    ],
+    "critique": [
+      "Credit v1’s genuine conceptual disagreement and unusually broad bibliography while identifying its conflated categories.",
+      "Prefer v2’s argumentative specificity but acknowledge that hypothetical cases leave historical remedies unresolved and the bibliography narrower."
+    ]
+  },
+  "2025-07-20-foundation": {
+    "v15": [
+      "Attribute viewing and rereading experience to the human prompt’s author and replace claims about the work’s soul with assessable concerns about historical forces.",
+      "Remove unsupported generalizations about modern viewers needing action and books being for thinkers while television is for adventure.",
+      "Distinguish changed events and gadgets from a changed causal or philosophical account.",
+      "Add Goyer’s primary explanation of the Genetic Dynasty as a concrete adaptation choice open to criticism.",
+      "Replace the unverified definitive-collection endorsement with a caveat about edition contents and identify the original trilogy order."
+    ],
+    "v2": [
+      "Make causal fidelity the organizing question: which people, institutions, knowledge, and pressures appear to produce outcomes?",
+      "Assess the Genetic Dynasty as both a visualization of stasis and a possible shift toward palace personality, while recognizing tensions already present in the novels.",
+      "Bound the essay to the unspecified viewing scope, add adaptation-theory reading, and write original What Makes the Empire Fall lyrics."
+    ],
+    "critique": [
+      "Distinguish the prompt’s valuable good-show/good-adaptation question from v1’s unsupported audience split.",
+      "Credit v2’s framework while explicitly limiting its verdict because it lacks a sustained paired book-crisis and screen-scene analysis."
+    ]
+  }
+}

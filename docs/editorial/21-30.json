@@ -1,0 +1,181 @@
+{
+  "2025-07-21-all-my-passion": {
+    "v15": [
+      "Replace celebrity-success inference and absolute claims about flow with a distinction between sustained attention and nonstop work; famous achievers are explicitly a selective sample.",
+      "Give Contra a stronger case about costs borne by others and make rest valuable independently of its effect on productivity.",
+      "Use the researched harmonious/obsessive-passion distinction without presenting it as a diagnosis or a universal formula.",
+      "Turn the generic balance conclusion into bounded periods of intensity with stated costs and review points while retaining the original song, structure, recording links, and verbatim prompt."
+    ],
+    "v2": [
+      "Build a fresh dialogue around a boat-making hobby to examine meaningful absorption, hidden household labor, and identity tied to an unfinished project.",
+      "Make completion, permission to stop, and non-instrumental rest central to the synthesis instead of treating recovery only as fuel for work.",
+      "Write original workshop lyrics and pair contemplative practice, project management, and acceptance of finite time in the recommendations."
+    ],
+    "critique": [
+      "Identify v1's selective celebrity evidence and its tendency to justify rest only through productivity.",
+      "Prefer v1.5 for the original blog's concise rhythm; credit v2's richer treatment of identity while noting the privileged control of time in its hobbyist example."
+    ]
+  },
+  "2025-07-22-private-property-and-anarchy": {
+    "v15": [
+      "Separate recognized use from transferable title and distinguish a distributed record from evidence that the initial claim is legitimate.",
+      "Present de Soto's capitalization thesis as an argument to assess rather than proof that title alone creates prosperity or only one enforcement institution can work.",
+      "Introduce Ostrom's polycentric-governance work with the explicit limit that it does not prove stateless capitalism.",
+      "Replace universal state-versus-chaos claims with concrete burdens concerning conflicting jurisdictions, outsiders, unaffordable access, and accountable enforcement.",
+      "Retain the Property City lyrics and original recordings while focusing the synthesis on recognition, transfer, adjudication, and enforcement."
+    ],
+    "v2": [
+      "Develop a new garden-and-lender scenario to show how local ownership can be meaningful without satisfying requirements for transfer or collateral.",
+      "Test cooperative enforcement against the excluded poor claimant so that institutional coordination is not confused with legitimacy.",
+      "Write original river-and-ledger lyrics and recommend de Soto, Ostrom, and Nozick as deliberately different lenses."
+    ],
+    "critique": [
+      "Trace v1's conflation of records, rights, and enforcement and v1.5's repairs to each.",
+      "Favor v2's explanatory scenario while noting that its institutional-design focus reduces the original debate's philosophical heat and does not settle the basis of coercion."
+    ]
+  },
+  "2025-07-23-leadership": {
+    "v15": [
+      "Reframe kindness versus ruthlessness as a debate about coordination, deadlock, clear standards, and accountable decision rights.",
+      "Replace a sweeping research claim with Edmondson's specific study of psychological safety and learning behavior, explicitly distinguishing association from a universal recipe.",
+      "Treat Welch's management story as an advocate's argument rather than proof of ruthlessness causing success, and add Suzy Welch's coauthor credit.",
+      "Give informal leadership its own risks of popularity and hidden hierarchy; make replacement and review part of the synthesis.",
+      "Preserve the original bridge-and-boss song and prompt text, adding an explicit James Prompt heading to the originally unheaded prompt block."
+    ],
+    "v2": [
+      "Stage a new workshop-safety dispute between a respected informal leader and a newcomer to make both trust and delegated authority necessary questions.",
+      "Use the leader's challengeability and replaceability as the test of humane leadership, while protecting the group's ability to make a timely decision.",
+      "Write original table-and-crossing lyrics; contrast research on speaking up, generosity, and demanding management in the reading list."
+    ],
+    "critique": [
+      "Show how v1 collapses several dimensions of power into one kindness-versus-toughness axis.",
+      "Prefer v2 for answering the neglected justification question, while noting that a safety case provides a clearer basis for authority than ordinary disputes over purpose or compensation."
+    ]
+  },
+  "2025-07-24-to-tailwind-or-not-to-tailwind": {
+    "v15": [
+      "Remove unsupported assertions of superior AI reliability, automatic encapsulation, and universally easier enforcement of a design system.",
+      "Explain local utility composition, arbitrary-value drift, shared tokens, and component boundaries using Tailwind's official documentation.",
+      "Replace separation-of-concerns dogma and historical guilt by association with the concrete maintenance cost of repeated class lists.",
+      "Add the documented source-scanner requirement for complete class names as a real framework trade-off and propose representative maintenance changes as a decision method.",
+      "Identify the official video-course repository accurately, credit CSS coauthor Estelle Weyl and Refactoring UI's authors, and identify Alla Kholmatova's Design Systems with a direct publisher page."
+    ],
+    "v2": [
+      "Begin from twelve buttons and a redesign six months later, evaluating styling approaches through change rather than screenshots.",
+      "Distinguish local presentation from shared design intention and warn against both repeated strings and overgrown component abstractions.",
+      "Include handoff and an unfamiliar teammate in the proposed maintenance exercise, with original lyrics and direct official reading links."
+    ],
+    "critique": [
+      "Identify v1's unsupported AI and architectural claims and explain the specific documentation-grounded repairs.",
+      "Favor v2's actionable evaluation method while stating that no worked implementation or measurement establishes a winner and that its quieter lyrics lose some of v1's energy."
+    ]
+  },
+  "2025-07-25-life-necessitates-evil": {
+    "v15": [
+      "Separate harm, moral wrongdoing, and evil instead of resolving the debate by equating evil solely with malicious intent or delight in suffering.",
+      "Add foreseeable consequences, negligence, feasible alternatives, and duties of care to the assessment of ordinary actions.",
+      "Preserve the distinction between killing for nourishment and amusement without treating purpose alone as settling animal ethics.",
+      "Make comparison and repair the practical response to unavoidable harm, retain the song and original recordings, and remove the redundant prompt-recap label.",
+      "Clarify recommendation authors and the limits of broad historical, psychological, and simple-living arguments; source the parasitoid example."
+    ],
+    "v2": [
+      "Create a community-kitchen-during-a-storm scenario where both delivering food and refusing to act have visible moral costs.",
+      "Distinguish individual capacity from collective responsibility and develop regret without self-condemnation or performative guilt.",
+      "Write original bowl-and-road lyrics and connect theological fallibility, expanding moral concern, and contemplative practice through the reading list."
+    ],
+    "critique": [
+      "Locate v1's core error in its intent-only escape from universal harm and document how v1.5 restores negligence and alternatives.",
+      "Favor v2's treatment of inaction and repair while noting that emergency food assistance makes action easier to justify than many ordinary consumption decisions."
+    ]
+  },
+  "2025-07-26-call-of-infinity": {
+    "v15": [
+      "Distinguish finite access from claims about infinity's physical or mathematical existence, leaving ontology open rather than asserting finitude as the world's reality.",
+      "Separate exact definition, printed digits, infinite objects, finite proofs, and usable approximations; add a simple geometric-series example.",
+      "Correct the portrayal of constructive mathematics as merely banning infinity and reject the false choice between classical infinity and useful analysis.",
+      "Explain why convergence, an available error bound, and affordable computation are different achievements.",
+      "Repair lyric blockquote formatting and the Troelstra/van Dalen title and description while preserving the original song and verbatim prompt."
+    ],
+    "v2": [
+      "Use a machine printing pi and an explicit remainder of 2^-n to demonstrate how a finite proof can cover infinitely many uncomputed cases.",
+      "Organize the debate around existence in a theory, construction, and resource-bounded execution, with distinct standards for physical, mathematical, and computational claims.",
+      "Write original ladder-and-horizon lyrics and pair mathematical exploration and constructive logic with a clearly labeled practical lens on finite time."
+    ],
+    "critique": [
+      "Expose v1's slide from bounded observations to metaphysical certainty and its conflation of constructive mathematics with finitism.",
+      "Credit v2's explicit calculation while noting that the easy series does not demonstrate difficult convergence; keep v1.5 preferable for readers seeking the original mood and brevity."
+    ]
+  },
+  "2025-07-27-great-man-theory": {
+    "v15": [
+      "Correct the relativity chronology: Einstein's special-relativity paper is 1905, Minkowski's spacetime formulation follows in 1908, and Hilbert belongs to the later general-relativity story.",
+      "Remove certainty that an Einstein-free history would reach the same result, replacing it with a distinction between actual contributors and unknowable counterfactual timing.",
+      "Distinguish persuasive reasoning from personality and require claims about overlooked contributors to name their actual work.",
+      "Flag the retained spacetime-inventor lyric as poetic shorthand rather than literal history, without altering the original recording or prompt.",
+      "Repair The Sleepwalkers' truncated title, supply Arthur Koestler's authorship, and focus the synthesis on specific contributions rather than a generic symphony metaphor."
+    ],
+    "v2": [
+      "Open with the unavailable photograph of alternate history and develop a crowded-notebook account of scientific credit.",
+      "Separate priority, development, communication, and influence instead of assigning the whole causal story to either a hero or an anonymous crowd.",
+      "Write original Einstein tribute lyrics that leave room for unremembered contributors and examine institutions that support singular judgment."
+    ],
+    "critique": [
+      "Identify chronology and counterfactual certainty as v1's main historical failures, while preserving its musical admiration as a strength.",
+      "Prefer v1.5 for the original compact blog form; credit v2's framework but judge it underdeveloped as actual history because one chronological case carries most of the factual work."
+    ]
+  },
+  "2025-07-28-surfing-the-wave": {
+    "v15": [
+      "Explain definite particle and apparatus configurations without saying superposition disappears or declaring all measurement and foundations questions solved.",
+      "State Bell's relevant assumptions and distinguish nonlocal dependence from controllable faster-than-light signalling in quantum equilibrium.",
+      "Replace claims that standard QM fits relativity perfectly or that Bohmian mechanics simply abandons relativity with an account of additional relativistic structure and open explanatory demands.",
+      "Separate Bell-type particle-number jumps from ultraviolet-divergence removal, citing particular interior-boundary-condition results without generalizing them to all QFT.",
+      "Identify the many-particle configuration-space wave function and limits of the surfing metaphor; repair the Peres description, appraisal editors, and Tumulka recommendation while retaining the original song and prompt."
+    ],
+    "v2": [
+      "Build a new staged explanation through ontology, double-slit behavior, records, Bell assumptions, spacetime structure, and field-theory extensions.",
+      "Distinguish a trajectory in the theory from an undisturbed route a camera could record, and explicitly reject the stronger divergence claim requested by the preserved prompt.",
+      "Use original electron-passage lyrics and direct original-paper/book references while acknowledging that empirical adequacy does not uniquely select the theory."
+    ],
+    "critique": [
+      "Identify v1's accessibility as a strength but classify its measurement, relativity, and divergence claims as substantive reliability problems.",
+      "Prefer v2's carefully scoped explanation while warning that its citation density and largely Bohmian perspective reduce its accessibility and comparative breadth."
+    ]
+  },
+  "2025-07-29-learning-to-be-human": {
+    "v15": [
+      "Retain the case for child agency while removing the sweeping factory-origin story, unsupported adult-recall claims, and predictions that make AI employment determine education's purpose.",
+      "Give Contra a serious defense of access to knowledge, skilled instruction, and support rather than obedience and fixed ranks of usefulness.",
+      "Distinguish searchable information from usable background knowledge and Sudbury self-direction from the absence of community rules.",
+      "Present school graduate accounts as evidence of possibility with selection and causal limits, and retain adult responsibility for children who struggle.",
+      "Add Willingham as a substantive opposing recommendation, soften overclaims about Summerhill and character, and preserve the original song, recordings, and prompt."
+    ],
+    "v2": [
+      "Create a bicycle-repair scenario in which a child's chosen purpose immediately meets the need for reading instruction and adult support.",
+      "Vary the child's access to a neighbor, tools, money, and space so that freedom is evaluated alongside unequal resources.",
+      "Use original lyrics that ask to be taught, and judge educational settings by how they respond when a learner or a lesson goes wrong."
+    ],
+    "critique": [
+      "Explain how v1's prison framing, weak opposing voice, and one-sided recommendations make its apparent victory too easy.",
+      "Prefer v2's agency-and-access account while noting that its cooperative project does not resolve persistent refusal of essential skills or understaffed schools."
+    ]
+  },
+  "2025-07-30-the-algorithmic-mind": {
+    "v15": [
+      "Preserve and clarify the AI-authored prompt/post provenance; remove invented personal app-browsing testimony and correct the Novixm speaker typo.",
+      "Treat inferred preferences as imperfect evidence rather than identity and avoid claiming recommendations mechanically become beliefs.",
+      "Recognize that algorithms can introduce novelty and human filters can repeat familiar views, replacing the code-versus-serendipity binary.",
+      "Distinguish transparency from meaningful control and give designers and institutions responsibility alongside individual curiosity.",
+      "Identify Zuboff, Newport, and Orlowski with different evidential roles while retaining the original song, recordings, and verbatim Novix Prompt."
+    ],
+    "v2": [
+      "Start with music for cooking to distinguish accurate engagement prediction from fulfilling a user's actual purpose and stopping time.",
+      "Treat recommendation as a revisable delegation, including corrections to inferred taste, durable limits, practical exit, and conflicting institutional incentives.",
+      "Write original scorekeeping-algorithm lyrics and explicitly identify the AI-authored seed and fictional dialogue roles."
+    ],
+    "critique": [
+      "Identify v1's invented AI autobiography and overstrong accounts of prediction and influence without discarding its playful reflexivity.",
+      "Prefer v2's purpose-and-stopping test while noting that a forgiving playlist example and untested design proposals do not establish effects in higher-stakes ranking systems."
+    ]
+  }
+}
