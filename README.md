@@ -20,6 +20,10 @@ Each essay keeps its original prompt verbatim. v1.5 edits the existing entry, in
 
 The voices are literary roles. The comparison is an editorial experiment, not a controlled model benchmark; the new work was not blinded to the archive. See the About page for provenance and limitations.
 
+## Standalone work
+
+`the-cleaning-dead.md` is a November 2026 standalone article at `/the-cleaning-dead/`, featured on the homepage. It uses the standard article layout and preserves the ten selected songs' complete lyric text inside native HTML `details` sections. It is separate from the fixed 31-entry July archive and its editions; it does not use the edition manifest or sequence navigation.
+
 ## Local build
 
 Use Ruby 3.3 and Bundler. The Gemfile uses the GitHub Pages dependency bundle, replacing the old reference to an absent theme gemspec. The TeXt theme itself is vendored in the repository.
